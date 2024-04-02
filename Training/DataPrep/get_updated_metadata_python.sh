@@ -1,6 +1,6 @@
 language=python
-in_file=../GitHubMining/python-top-repos.txt
-head -148000 $in_file | xargs -P32 -n1 -I% bash -c 'echo %; \
+in_file=../GitHubMining/cutted_python-top-repos.txt     # python-top-repos.txt
+head -1500 $in_file | xargs -P1 -n1 -I% bash -c 'echo %; \
 line=$"%";\
 line_array=($line);\
 github_link=${line_array[0]};\

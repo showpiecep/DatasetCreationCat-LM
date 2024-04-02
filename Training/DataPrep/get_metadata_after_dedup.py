@@ -47,8 +47,11 @@ def get_num_tokens(filename):
 
 def get_metadata_after_dedup(repos_dir, pl, org, project, output_dir):
     after_metadata_dir = os.path.join(output_dir, pl, 'DeduplicatedMetaData/')
+    os.makedirs(after_metadata_dir, exist_ok=True)
+
     project_dir = os.path.join(repos_dir, pl, org, project)
     metadata_filename = 'metadata_' + org + '__' + project + '.json'
+
     try:
         all_project_file_paths = get_project_filepaths(project_dir)
         metadata_df = pd.DataFrame(index=list(range(len(all_project_file_paths))), columns=['organization', 'project', 'filename', 'file_type'])
@@ -107,8 +110,10 @@ if __name__ == '__main__':
 
     print(f"Processing {pl}/{org}/{project}")
 
-    repos_dir = '/data/GitHubMining/CurrentStateDeduplicated/'
-    output_dir = '/data/GitHubMining/Output/'
+    repos_dir = './data/GitHubMining/CurrentStateDeduplicated/'
+    output_dir = './data/GitHubMining/Output/'
+
+    os.makedirs(output_dir, exist_ok=True)
    
     get_metadata_after_dedup(repos_dir, pl, org, project, output_dir)
     get_filepairs_after_dedup(repos_dir, pl, org, project, output_dir)
