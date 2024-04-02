@@ -1,7 +1,0 @@
-# set base image (host OS)
-FROM gradle:6.9.1-jdk17 AS build  
-COPY --from=python:3.8 / /
-
-RUN pip3 install xmltodict pandas javalang
-
-WORKDIR /code

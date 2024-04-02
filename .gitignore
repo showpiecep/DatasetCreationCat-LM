@@ -1,2 +1,6 @@
 data/
 __pycache__/
+.ipynb_checkpoints
+/Evaluation
+/Dataset
+/CAT-LM Model
