@@ -1,0 +1,62 @@
+[I 2024-03-04 15:47:55.665 ServerApp] Package jupyterlab took 0.0000s to import
+[I 2024-03-04 15:47:55.677 ServerApp] Package jupyter_lsp took 0.0114s to import
+[W 2024-03-04 15:47:55.677 ServerApp] A `_jupyter_server_extension_points` function was not found in jupyter_lsp. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2024-03-04 15:47:55.682 ServerApp] Package jupyter_server_terminals took 0.0052s to import
+[I 2024-03-04 15:47:55.683 ServerApp] Package notebook_shim took 0.0000s to import
+[W 2024-03-04 15:47:55.683 ServerApp] A `_jupyter_server_extension_points` function was not found in notebook_shim. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2024-03-04 15:47:55.684 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-03-04 15:47:55.689 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[W 2024-03-04 15:47:55.691 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-03-04 15:47:55.695 ServerApp] ServerApp.token config is deprecated in 2.0. Use IdentityProvider.token.
+[I 2024-03-04 15:47:55.696 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-03-04 15:47:55.950 ServerApp] notebook_shim | extension was successfully linked.
+[W 2024-03-04 15:47:55.968 ServerApp] WARNING: The Jupyter server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 2024-03-04 15:47:55.968 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-03-04 15:47:55.971 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-03-04 15:47:55.972 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-03-04 15:47:55.973 LabApp] JupyterLab extension loaded from /usr/local/lib/python3.10/dist-packages/jupyterlab
+[I 2024-03-04 15:47:55.973 LabApp] JupyterLab application directory is /usr/local/share/jupyter/lab
+[I 2024-03-04 15:47:55.973 LabApp] Extension Manager is 'pypi'.
+[I 2024-03-04 15:47:55.977 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-03-04 15:47:55.977 ServerApp] The port 8893 is already in use, trying another port.
+[I 2024-03-04 15:47:55.977 ServerApp] The port 8894 is already in use, trying another port.
+[I 2024-03-04 15:47:55.977 ServerApp] The port 8895 is already in use, trying another port.
+[I 2024-03-04 15:47:55.977 ServerApp] The port 8896 is already in use, trying another port.
+[I 2024-03-04 15:47:55.978 ServerApp] The port 8897 is already in use, trying another port.
+[I 2024-03-04 15:47:55.978 ServerApp] Serving notebooks from local directory: /home
+[I 2024-03-04 15:47:55.978 ServerApp] Jupyter Server 2.9.1 is running at:
+[I 2024-03-04 15:47:55.978 ServerApp] http://localhost:8802/lab?token=...
+[I 2024-03-04 15:47:55.978 ServerApp]     http://127.0.0.1:8802/lab?token=...
+[I 2024-03-04 15:47:55.978 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 2024-03-04 15:47:56.019 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2024-04-01 12:37:25.212 ServerApp] Package jupyterlab took 0.0000s to import
+[I 2024-04-01 12:37:25.223 ServerApp] Package jupyter_lsp took 0.0104s to import
+[W 2024-04-01 12:37:25.223 ServerApp] A `_jupyter_server_extension_points` function was not found in jupyter_lsp. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2024-04-01 12:37:25.228 ServerApp] Package jupyter_server_terminals took 0.0048s to import
+[I 2024-04-01 12:37:25.229 ServerApp] Package notebook_shim took 0.0000s to import
+[W 2024-04-01 12:37:25.229 ServerApp] A `_jupyter_server_extension_points` function was not found in notebook_shim. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2024-04-01 12:37:25.229 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-04-01 12:37:25.234 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[W 2024-04-01 12:37:25.236 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-04-01 12:37:25.240 ServerApp] ServerApp.token config is deprecated in 2.0. Use IdentityProvider.token.
+[I 2024-04-01 12:37:25.240 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-04-01 12:37:25.479 ServerApp] notebook_shim | extension was successfully linked.
+[W 2024-04-01 12:37:25.497 ServerApp] WARNING: The Jupyter server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 2024-04-01 12:37:25.497 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-04-01 12:37:25.500 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-04-01 12:37:25.501 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-04-01 12:37:25.502 LabApp] JupyterLab extension loaded from /usr/local/lib/python3.10/dist-packages/jupyterlab
+[I 2024-04-01 12:37:25.502 LabApp] JupyterLab application directory is /usr/local/share/jupyter/lab
+[I 2024-04-01 12:37:25.502 LabApp] Extension Manager is 'pypi'.
+[I 2024-04-01 12:37:25.506 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-04-01 12:37:25.506 ServerApp] The port 8893 is already in use, trying another port.
+[I 2024-04-01 12:37:25.506 ServerApp] The port 8894 is already in use, trying another port.
+[I 2024-04-01 12:37:25.506 ServerApp] The port 8895 is already in use, trying another port.
+[I 2024-04-01 12:37:25.507 ServerApp] The port 8896 is already in use, trying another port.
+[I 2024-04-01 12:37:25.507 ServerApp] The port 8897 is already in use, trying another port.
+[I 2024-04-01 12:37:25.507 ServerApp] Serving notebooks from local directory: /home
+[I 2024-04-01 12:37:25.507 ServerApp] Jupyter Server 2.9.1 is running at:
+[I 2024-04-01 12:37:25.507 ServerApp] http://localhost:8981/lab?token=...
+[I 2024-04-01 12:37:25.507 ServerApp]     http://127.0.0.1:8981/lab?token=...
+[I 2024-04-01 12:37:25.507 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 2024-04-01 12:37:25.548 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server

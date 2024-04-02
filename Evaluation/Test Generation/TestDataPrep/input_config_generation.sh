@@ -1,0 +1,1 @@
+python3 -u input_config_generation.py | tee output_configs_n10_t0.2.txt

@@ -1,0 +1,340 @@
+  0%|                                                                                                 | 0/1501 [00:00<?, ?it/s]../GitHubMining/data/GitHubMining/CurrentState/python/Viposha/Pytest/README.md chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/Viposha/Pytest/.git/shallow chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/Viposha/Pytest/.git/description chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/Viposha/Pytest/.git/HEAD chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/Viposha/Pytest/.git/objects/pack/pack-22c6c981312b179c8202a5f40f65467257e7129a.idx alphanum too few
+../GitHubMining/data/GitHubMining/CurrentState/python/Viposha/Pytest/.git/refs/heads/main chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/Viposha/Pytest/.git/refs/remotes/origin/HEAD chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/Viposha/Pytest/.git/logs/HEAD line mean too many
+../GitHubMining/data/GitHubMining/CurrentState/python/Viposha/Pytest/.git/logs/refs/heads/main line mean too many
+../GitHubMining/data/GitHubMining/CurrentState/python/Viposha/Pytest/.git/logs/refs/remotes/origin/HEAD line mean too many
+../GitHubMining/data/GitHubMining/CurrentState/python/Viposha/Pytest/tests/__init__.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/Viposha/Pytest/tests/test_func.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/Viposha/Pytest/src/__init__.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/davidh38/pytest_test/.gitignore chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/davidh38/pytest_test/README.MD chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/davidh38/pytest_test/hello.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/davidh38/pytest_test/.git/shallow chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/davidh38/pytest_test/.git/description chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/davidh38/pytest_test/.git/HEAD chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/davidh38/pytest_test/.git/info/exclude duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/davidh38/pytest_test/.git/objects/pack/pack-87637b1ed3110004638f202fa878139a620bb3d2.idx alphanum too few
+../GitHubMining/data/GitHubMining/CurrentState/python/davidh38/pytest_test/.git/refs/heads/master chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/davidh38/pytest_test/.git/refs/remotes/origin/HEAD chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/davidh38/pytest_test/.git/hooks/prepare-commit-msg.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/davidh38/pytest_test/.git/hooks/update.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/davidh38/pytest_test/.git/hooks/pre-commit.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/davidh38/pytest_test/.git/hooks/commit-msg.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/davidh38/pytest_test/.git/hooks/post-update.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/davidh38/pytest_test/.git/hooks/push-to-checkout.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/davidh38/pytest_test/.git/hooks/fsmonitor-watchman.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/davidh38/pytest_test/.git/hooks/pre-push.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/davidh38/pytest_test/.git/hooks/pre-receive.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/davidh38/pytest_test/.git/hooks/pre-merge-commit.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/davidh38/pytest_test/.git/hooks/pre-rebase.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/davidh38/pytest_test/.git/hooks/pre-applypatch.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/davidh38/pytest_test/.git/hooks/applypatch-msg.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/davidh38/pytest_test/.git/logs/HEAD line mean too many
+../GitHubMining/data/GitHubMining/CurrentState/python/davidh38/pytest_test/.git/logs/refs/heads/master line mean too many
+../GitHubMining/data/GitHubMining/CurrentState/python/davidh38/pytest_test/.git/logs/refs/remotes/origin/HEAD line mean too many
+../GitHubMining/data/GitHubMining/CurrentState/python/davidh38/pytest_test/tests/__init__.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/davidh38/pytest_test/tests/test_hello.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/.gitattributes chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/.gitignore autogenerated
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/plugins_integration/.gitignore chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/plugins_integration/django_settings.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/plugins_integration/pytest_mock_integration.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/freeze/.gitignore chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/freeze/tests/test_doctest.txt chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/pytest.ini chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/__init__.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/conftest_usageerror/__init__.pyi chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/collect/package_infinite_recursion/__init__.pyi chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/collect/package_infinite_recursion/conftest.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/collect/package_infinite_recursion/tests/test_basic.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/collect/package_infinite_recursion/tests/__init__.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/collect/package_init_given_as_arg/pkg/__init__.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/collect/package_init_given_as_arg/pkg/test_foo.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/collect/collect_init_tests/pytest.ini chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/collect/collect_init_tests/tests/__init__.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/collect/collect_init_tests/tests/test_foo.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/warnings/test_group_warnings_by_message_summary/test_2.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/config/collect_pytest_prefix/__init__.pyi chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/config/collect_pytest_prefix/test_foo.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/config/collect_pytest_prefix/conftest.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/issue88_initial_file_multinodes/__init__.pyi chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/issue88_initial_file_multinodes/test_hello.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/marks/marks_considered_keywords/__init__.pyi chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/marks/marks_considered_keywords/test_marks_as_keywords.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/marks/marks_considered_keywords/conftest.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/fixtures/fill_fixtures/test_extend_fixture_conftest_module/__init__.pyi chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/fixtures/fill_fixtures/test_extend_fixture_conftest_module/conftest.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/fixtures/fill_fixtures/test_extend_fixture_conftest_conftest/__init__.pyi chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/fixtures/fill_fixtures/test_extend_fixture_conftest_conftest/conftest.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/fixtures/fill_fixtures/test_extend_fixture_conftest_conftest/pkg/test_spam.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/fixtures/fill_fixtures/test_extend_fixture_conftest_conftest/pkg/__init__.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/fixtures/fill_fixtures/test_extend_fixture_conftest_conftest/pkg/conftest.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/fixtures/fill_fixtures/test_conftest_funcargs_only_available_in_subdir/sub1/test_in_sub1.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/fixtures/fill_fixtures/test_conftest_funcargs_only_available_in_subdir/sub1/__init__.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/fixtures/fill_fixtures/test_conftest_funcargs_only_available_in_subdir/sub2/__init__.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/fixtures/fill_fixtures/test_conftest_funcargs_only_available_in_subdir/sub2/test_in_sub2.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/fixtures/custom_item/__init__.pyi chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/fixtures/custom_item/foo/__init__.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/fixtures/custom_item/foo/test_foo.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/perf_examples/collect_stats/.gitignore chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/perf_examples/collect_stats/template_test.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/customdirectory/pytest.ini chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/customdirectory/tests/manifest.json chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/customdirectory/tests/test_third.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/customdirectory/tests/test_first.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/customdirectory/tests/test_second.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/testing/example_scripts/doctest/main_py/__main__.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/.git/shallow chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/.git/description chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/.git/HEAD chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/.git/info/exclude duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/.git/refs/heads/main chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/.git/refs/remotes/origin/HEAD chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/.git/hooks/prepare-commit-msg.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/.git/hooks/update.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/.git/hooks/pre-commit.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/.git/hooks/commit-msg.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/.git/hooks/post-update.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/.git/hooks/push-to-checkout.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/.git/hooks/fsmonitor-watchman.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/.git/hooks/pre-push.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/.git/hooks/pre-receive.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/.git/hooks/pre-merge-commit.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/.git/hooks/pre-rebase.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/.git/hooks/pre-applypatch.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/.git/hooks/applypatch-msg.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/.git/logs/HEAD line mean too many
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/.git/logs/refs/heads/main line mean too many
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/.git/logs/refs/remotes/origin/HEAD line mean too many
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/scripts/.gitignore chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/src/pytest/py.typed chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/src/_pytest/py.typed chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/src/_pytest/_py/__init__.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/changelog/11871.feature.rst line mean too many
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/changelog/12065.bugfix.rst line mean too many
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/changelog/1489.bugfix.rst line mean too many
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/changelog/12135.bugfix.rst line mean too many
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/doc/en/recwarn.rst chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/doc/en/pytest.ini chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/doc/en/contributing.rst chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/doc/en/conftest.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/doc/en/reference/plugin_list.rst autogenerated
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/doc/en/example/conftest.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/doc/en/example/assertion/global_testmodule_config/test_hello_world.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/doc/en/example/customdirectory/pytest.ini chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/doc/en/example/customdirectory/tests/manifest.json chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/doc/en/example/customdirectory/tests/test_third.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/doc/en/example/customdirectory/tests/test_first.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/doc/en/example/customdirectory/tests/test_second.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/doc/en/example/nonpython/__init__.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/doc/en/example/nonpython/test_simple.yaml chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/doc/en/img/pytest1.png line max too many
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/doc/en/img/pytest_logo_curves.svg line mean too many
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/.github/config.yml chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/pytest-dev/pytest/bench/empty.py chars too short
+  0%|▏                                                                                        | 3/1501 [00:01<13:04,  1.91it/s]../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/.gitignore chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/spz/__init__.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/spz/paco/__init__.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/spz/SuspensionBridge/PlummerN512.stoa line mean too many
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/spz/SuspensionBridge/KingW7N10k.stoa chars too long
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/spz/SuspensionBridge/BinaryN2.stoa chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/spz/SuspensionBridge/PlummerN100.stoa line mean too many
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/spz/SuspensionBridge/KingW7N2k.stoa line mean too many
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/spz/HD106906b/Kepler/__init__.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/spz/aarsethzare/__init__.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/spz/aarsethzare/elements_to_massposvel.in line mean too many
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/spz/aarsethzare/src/test.f90 chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/spz/mercury/src/files.in chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/spz/Tutorial/cluster_gd_imf_se_ds.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/spz/Tutorial/galaxy.py alphanum too few
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/spz/AMUSEPrimer/CaseStudies/src/GC/amuserc chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/spz/AMUSEPrimer/MultiphsyicsSolvers/MultiphsyicsSolvers.tex duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/spz/AMUSEPrimer/MultiphsyicsSolvers/src/gravity_orbit.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/spz/AMUSEPrimer/Validation/src/plot_2001ApJ...551L..89G.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/cluster_gas_visualization/src/ibis/amuse/visualization/openglCommon/shaders/src/vs_postprocess.vp duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/cluster_gas_visualization/src/ibis/amuse/visualization/openglCommon/shaders/src/vs_gas.vp duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/cluster_gas_visualization/src/ibis/amuse/visualization/openglCommon/shaders/src/fs_gas.fp duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/cluster_gas_visualization/src/ibis/amuse/visualization/openglCommon/shaders/src/unused/fs_colorcube.fp chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/cluster_gas_visualization/lib/jogl.all.jar chars too long
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/cluster_gas_visualization/lib/jhdf5.jar line max too many
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/cluster_gas_visualization/lib/natives/libjhdf5.so chars too long
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/cluster_gas_visualization/lib/natives/libjhdf.so line max too many
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/without_timestep_safety/lmech.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/without_timestep_safety/prof.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/without_timestep_safety/SSEplus.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/without_timestep_safety/makefile_options duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/without_timestep_safety/readme.txt duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/without_timestep_safety/restart.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/without_timestep_safety/fast.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/without_timestep_safety/copycat.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/without_timestep_safety/boxedfi.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/without_timestep_safety/restart-faster.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/cluster_gas_demo/grav_gas_sse.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/cluster_gas_demo/sge-script duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/cluster_gas_demo/lmech.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/cluster_gas_demo/prof.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/cluster_gas_demo/run-demo-VU.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/cluster_gas_demo/SSEplus.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/cluster_gas_demo/makefile_options duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/cluster_gas_demo/run-demo-das.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/cluster_gas_demo/clustergas_gadget.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/cluster_gas_demo/readme.txt duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/cluster_gas_demo/restart.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/cluster_gas_demo/run-demo-local-gpu.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/cluster_gas_demo/copycat.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/cluster_gas_demo/boxedfi.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/cluster_gas_demo/restart-faster.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/cluster_gas_demo/run-demo.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/cluster_gas_demo/run-demo-local.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/EYR3/run-das.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/EYR3/lmech.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/EYR3/SSEplus.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/EYR3/run.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/EYR3/restart.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/EYR3/fast.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/EYR3/copycat.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/EYR3/run-VU.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/EYR3/boxedfi.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/EYR3/restart-faster.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/ndrost/create_strw_jungle/make_jungle chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/.git/shallow chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/.git/description chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/.git/HEAD chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/.git/info/exclude duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/.git/objects/pack/pack-606eabf99bb2e0add320ab7af9020fb129340664.pack chars too long
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/.git/refs/heads/main chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/.git/refs/remotes/origin/HEAD chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/.git/hooks/prepare-commit-msg.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/.git/hooks/update.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/.git/hooks/pre-commit.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/.git/hooks/commit-msg.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/.git/hooks/post-update.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/.git/hooks/push-to-checkout.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/.git/hooks/fsmonitor-watchman.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/.git/hooks/pre-push.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/.git/hooks/pre-receive.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/.git/hooks/pre-merge-commit.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/.git/hooks/pre-rebase.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/.git/hooks/pre-applypatch.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/.git/hooks/applypatch-msg.sample duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/.git/logs/HEAD line mean too many
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/.git/logs/refs/heads/main line mean too many
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/.git/logs/refs/remotes/origin/HEAD line mean too many
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/jilkova/sednitos/data_paper/star_ini.npy chars too long
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/jilkova/sednitos/data_paper/run_t100_disk.npz chars too long
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/jilkova/sednitos/data_paper/run_sub_t100.hdf5 chars too long
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/jilkova/kepler_uv/__init__.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/jilkova/kepler_uv/test_kepler.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/jilkova/kepler_uv/interface.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/jilkova/kepler_uv/src/util.cc duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/jilkova/kepler_uv/src/stdinc.h duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/jilkova/kepler_uv/src/hdyn.h duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/jilkova/kepler_uv/src/hdyn.cc duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/jilkova/kepler_uv/src/Makefile duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/jilkova/kepler_uv/src/vec.h duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/jilkova/kepler_uv/src/kepler.h duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/__init__.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/pcl8lim.pcl chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/examples/pcl8lim.pcl chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/glu/mf8lam duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/glu/mfsssm1 duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/gl/mf8lam duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/fppincs/fppsssm1 chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/fppincs/fpphhhm chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/fppincs/fppgigm6 chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/fppincs/fppoigm6 chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/fppincs/fpprafm chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/fppincs/fppgigm3 chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/fppincs/fpp8lim chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/fppincs/fpp8lam chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/fppincs/fpp8lum chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/fppincs/fpppxuo chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/fppincs/fppssso1 chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/fppincs/fppgigo3 chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/fppincs/fpphhho chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/fppincs/fpp8npo duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/fppincs/fppgigo6 chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/fppincs/fpp8nio duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/fppincs/fpprafo chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/fppincs/fpppxno chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/fppincs/fppraxo duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/fppincs/fppoigo6 chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/fppincs/fpps4nm chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/fppincs/fpp8ltm chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/fppincs/fpp8lnt chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/fppincs/fppaldm chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/fppincs/fpp8lnm chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/fppincs/fpp8lum2 chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/fppincs/fpp8lum2f chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/fppincs/fppssem chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/fppincs/fpp8lfm chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/fppincs/fpp8lat chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/include/GL/readme.txt chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/lib/readme.txt chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/util/mf8nvo.bat duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/util/mf8njob.bat duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/util/mfxnio.bat duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/util/mf8noo.bat duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/f90gl/util/mf8nmo.bat duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/clustergas/run-das.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/clustergas/grav_gas_sse.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/clustergas/lmech.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/clustergas/prof.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/clustergas/run-local-mpi.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/clustergas/SSEplus.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/clustergas/run.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/clustergas/run-local-gpu.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/clustergas/restart.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/clustergas/fast.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/clustergas/copycat.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/clustergas/run-VU.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/clustergas/boxedfi.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/clustergas/restart-faster.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/rgb_movie/v00.fits line max too many
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/rgb_movie/r00.fits line max too many
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/rgb_movie/b00.fits line max too many
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/rgb_movie/u00.fits line max too many
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/rgb_movie/i00.fits line max too many
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/oort/small_test_set.txt line mean too many
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/oort/parallel/large_test_set.txt chars too long
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/remote/veras/veras_2planet_test.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/remote/veras/remote_se.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/remote/veras/massloss.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/ibis/fast.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/ibis/test_evrard_units.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/ibis/evrard_test2.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/spectra/README.txt duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/rotation/rotating_bridge.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/grav_gas_sse/lmech.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/grav_gas_sse/prof.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/grav_gas_sse/readme.txt duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/grav_gas_sse/boxedfi.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/kepler/__init__.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/kepler/Makefile duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/circumbinary/fast.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/disk_encounter/directsum.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/disk_encounter/boxedfi.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/CosmoBridge/example.amuse line max too many
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/kepler3/__init__.py chars too short
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/kepler3/test_kepler.py duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/kepler3/Makefile duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/kepler3/interface.cc duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/kepler3/src/util.cc duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/kepler3/src/stdinc.h duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/kepler3/src/hdyn.h duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/kepler3/src/hdyn.cc duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/kepler3/src/Makefile duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/kepler3/src/vec.h duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/kepler3/src/kepler.h duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/kepler3/src/kepler.cc duplicate
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/halley/weak_encounter_test/t_rms_0.50 line mean too many
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/halley/weak_encounter_test/sol_jup_hally.txt line mean too many
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/halley/weak_encounter_test/t_rms_5.00 line mean too many
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/halley/weak_encounter_test/t_rms_1.00 line mean too many
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/halley/weak_encounter_test/t_rms_0.20 line mean too many
+../GitHubMining/data/GitHubMining/CurrentState/python/amusecode/amuse-sandbox/pelupes/halley/weak_encounter_test/t_rms_0.00 line mean too many

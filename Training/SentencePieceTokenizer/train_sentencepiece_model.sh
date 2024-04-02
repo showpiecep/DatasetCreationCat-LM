@@ -1,0 +1,1 @@
+unbuffer python3 main_train_sentencepiece_model.py 2>&1 | tee output_train_spm_10l.txt

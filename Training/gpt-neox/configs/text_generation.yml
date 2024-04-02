@@ -1,0 +1,21 @@
+# Parameters used for text generation
+# Make sure `load` is specified somewhere else
+{
+  # Text gen type: `input-file`, `unconditional` or `interactive`
+  "text-gen-type": "input-file",
+
+  # Params for all
+  "maximum_tokens": 256,
+  "temperature": 0.8,
+  "top_p": 0.0,
+  "top_k": 0,
+  "recompute": false,
+
+  # `unconditional` or `input-file`: samples
+  "num-samples": 100,
+
+  # input/output file
+  #"sample-input-file": "/code/Code/gpt-neox/data/download_files-test_download_files_contexts.txt",
+  "sample-input-file": "/code/Code/gpt-neox/data/download_files-test_download_files_preamble.txt",
+  "sample-output-file": "/code/Code/gpt-neox/data/download_files-test_download_files_preamble_outputs_t0.8_n100.txt",
+}

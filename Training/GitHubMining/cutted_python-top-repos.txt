@@ -1,0 +1,1500 @@
+https://github.com/Viposha/Pytest
+https://github.com/davidh38/pytest_test
+https://github.com/pytest-dev/pytest
+https://github.com/amusecode/amuse-sandbox
+https://github.com/weissj3/MWTools
+https://github.com/001nalan/python
+https://github.com/YuliyanStanchev/Rating-with-FLASK
+https://github.com/GodfatherAce/Python3-Material
+https://github.com/Lyxcrea/python-homeworks
+https://github.com/cardsrock10/Python-Training
+https://github.com/amath0312/githubtrends
+https://github.com/ylwctyt/Python3
+https://github.com/majewskaalicja/testrepo
+https://github.com/vieyahn2017/pytrials
+https://github.com/xhd2015/Python
+https://github.com/twytzhonghua/scrapy_spider_test
+https://github.com/texerdos/Python
+https://github.com/sterlinm/PythonClass
+https://github.com/sczhan/wode
+https://github.com/jingriver/testPython
+https://github.com/caiiiac/PythonDemo
+https://github.com/Amberttt/Python3-Test
+https://github.com/theGreenJedi/Path
+https://github.com/solomc1/python
+https://github.com/AndroidIosWebEmbeddedFirmwareDver/python3LearningNote
+https://github.com/danhper/bigcode-tools
+https://github.com/NikosKourb/BootCamp-Python-Week
+https://github.com/thulinh12a1/Python_document
+https://github.com/richelle89ss/Colligere
+https://github.com/mpp100579/test_case
+https://github.com/DannyKong12/HackPrinceton18
+https://github.com/jmmedel/Python
+https://github.com/Snowcying/python
+https://github.com/foreverchaos/algo_python
+https://github.com/428amp/Misc
+https://github.com/asdfghjjklllllaaa/infra
+https://github.com/mithro/chromium-infra
+https://github.com/mcgreevy/chromium-infra
+https://github.com/JetBrains-Research/python-change-miner
+https://github.com/hongshi-hunterfox/my_nacos
+https://github.com/ihf-code/python
+https://github.com/dskrypa/music_manager
+https://github.com/sliceresearch/lifts-tools
+https://github.com/pravusid/algorithm-practice
+https://github.com/Grigoriy-Podlisskiy/111
+https://github.com/allaparthi/monorail
+https://github.com/rafi021/Python-Books
+https://github.com/FloteApp/PHub-API
+https://github.com/ahmad-moussawi/python-exercices
+https://github.com/zuds-survey/zuds-pipeline
+https://github.com/gstoy/Programming-with-Python
+https://github.com/Morty-Mc-Fly/Python
+https://github.com/smander21/python
+https://github.com/talkshrey/PythonEditor
+https://github.com/lazarbojicic/new_repo
+https://github.com/adebusola-prog/ATS
+https://github.com/sharmasaravanan/Machine_learning
+https://github.com/maxxbw54/Why-Reinventing-the-Wheel
+https://github.com/ItMeansBigMountain/school
+https://github.com/MMolander/youtube
+https://github.com/devtlv/Python-S19
+https://github.com/xinghun61/infra
+https://github.com/Gp3ShenQ/30easy
+https://github.com/Petlja/TxtProgInPythonEng
+https://github.com/volkir31/university
+https://github.com/USF-ML2/Rectastic-
+https://github.com/OpenBB-finance/OpenBBTerminal
+https://github.com/MeroFuruya/Schule
+https://github.com/yyasun/ai-labs
+https://github.com/jollywing/jolly-code-snippets
+https://github.com/advinstai/python
+https://github.com/y7s21/python-script
+https://github.com/tylovejoy/doombot
+https://github.com/RRRoger/FirstProject
+https://github.com/NDevTK/chromium-infra
+https://github.com/aiaisun/Python-Basic
+https://github.com/isotbiberi/ggtest
+https://github.com/kopkalucas/wdi
+https://github.com/Michael-Mbajwa/coding_challenges
+https://github.com/Illumina/Cyrius
+https://github.com/Oficina-Alb/TxtProgInPythonAl
+https://github.com/PatchyVideo/PatchyVideo
+https://github.com/uny/github-swift-popular-apps
+https://github.com/dysnomius-dev/poems
+https://github.com/xswz8015/infra
+https://github.com/the-stoa/stoa-code
+https://github.com/davpat108/davpatDipterv
+https://github.com/Kenzie-Academy-Brasil-Developers/m5-sprint4-kmdb-nicollasanderson
+https://github.com/iota-cohort-dc/Jimmy_Park
+https://github.com/ananyakharbanda/vanilla-latte
+https://github.com/Ted-U/Python_Course
+https://github.com/starship-ibc/stargaze-floor-bot
+https://github.com/bobbobbio/monopy
+https://github.com/phuijse/LSST_simulations
+https://github.com/luturonunca/WKBL-isolated
+https://github.com/sskender/pornhub-api
+https://github.com/Cryptocurrency-TOOLS/OpenBBTerminal
+https://github.com/Foo-Maker/Miniprogramme-in-Python
+https://github.com/ZackAshM/stereo
+https://github.com/bradgrantham/apple2a
+https://github.com/RTS2/rts2
+https://github.com/IvelinaMisova7h/Ratings
+https://github.com/lihebi/scratch
+https://github.com/MrberZhang/sinlucomputer
+https://github.com/GeorgeMoto/Crypto_image_generator
+https://github.com/danhdeng/python-tutorial
+https://github.com/bx3/goldfish
+https://github.com/liuiti/capstone-m5-wellbeingsystem
+https://github.com/shivamparikh26/Light-The-Stars
+https://github.com/irvinbma/OpenBBTerminal-Finance
+https://github.com/BijoySingh/Python-Sessions-IDC
+https://github.com/cgu2022/NKC---Python-Curriculum
+https://github.com/puyo/exercises
+https://github.com/felipe16sm/kmdb
+https://github.com/codelabszup/cloud-formulas
+https://github.com/sola-st/WasmBench
+https://github.com/SergioSE98/TFG_1
+https://github.com/shipkovandrej/Proj_1sem_Derechin
+https://github.com/admar505/Exrius
+https://github.com/simon-weber/Predicting-Code-Popularity
+https://github.com/hekunlie/astrophy-research
+https://github.com/AntunGHU/GHPrul
+https://github.com/AndreeaCimpean/Uni
+https://github.com/bauhaus93/wishlist-py
+https://github.com/anibalalvarezg/practical-python
+https://github.com/joshua-smith-12/pygdash
+https://github.com/Kenzie-Academy-Brasil-Developers/m5-sprint4-kmdb-nicholas-dos-santos
+https://github.com/monkeylearn/hotel-review-analysis
+https://github.com/ahallson/TH_CSIDS
+https://github.com/GuillaumeFalourd/formulas-github
+https://github.com/sulovm/starsMaze
+https://github.com/Clanhouse/gh-robber
+https://github.com/vkaustubh/ksda_tools
+https://github.com/tjcsl/iodine
+https://github.com/gleisonbt/migrating-to-graphql
+https://github.com/mueherizky/py_exercise
+https://github.com/9217392354A/astro-scripts
+https://github.com/amusecode/amuse
+https://github.com/shinaeli/My-Python-Codes
+https://github.com/jbarragan88/Assingments
+https://github.com/craigderington/SagittariusA
+https://github.com/Vipul-Kumar/dialogflow2chatterbot
+https://github.com/sliceresearch/lifts-app
+https://github.com/era153/pyhton
+https://github.com/HeuristicPerson/Screenshot-Collector
+https://github.com/nolangon/bounce
+https://github.com/simeonf/df
+https://github.com/franciscaconcha/amuse-vader
+https://github.com/theBrianCui/CSC-143-Notes
+https://github.com/GuillaumeFalourd/formulas-insights
+https://github.com/d33tah/awesome-github-colorer
+https://github.com/Rimuwu/AS1
+https://github.com/jpboonie/main
+https://github.com/Mackey22/final4300
+https://github.com/wunnox/python_grundlagen
+https://github.com/hzy0809/leetcode
+https://github.com/mkrajangam/AI-ML
+https://github.com/arkprocoder/Advance-Python-Programming
+https://github.com/misterpawan/scimat2
+https://github.com/mavrix93/LightCurvesClassifier
+https://github.com/Kacpri/GitHubLister
+https://github.com/yongxinz/movie-calendar
+https://github.com/PdxCodeGuild/class_salmon
+https://github.com/pbaranoski/XML
+https://github.com/DFrankTech/Belhavencs1
+https://github.com/Kagetori/PictureThis
+https://github.com/maria/SkillHub
+https://github.com/guitar79/OA-2018
+https://github.com/BrianaLane/Interferon
+https://github.com/embedded-erC/StarsectorEscape
+https://github.com/liuhaotian9420/fgocrit
+https://github.com/pyDANDIA/pyDANDIA
+https://github.com/Veri-Etiketleme/7_Ogulcan_Gunes
+https://github.com/lsst-sims/legacy_sims_catalogs
+https://github.com/ProgramAnalysisISU/Helium
+https://github.com/eliasfrigard/githubdata
+https://github.com/lsst-sims/legacy_sims_catalogs_measures
+https://github.com/raulespecialist/myelp
+https://github.com/ga6198/ResearchDownload
+https://github.com/softwaredoug/vmware
+https://github.com/zgolkhou/software_design
+https://github.com/davidparker333/CodeWarsSolutions
+https://github.com/TeamAlphaPrimeReviews/reviews-to-improve
+https://github.com/ATLS1300/pc04---grads-abalCU
+https://github.com/madisoncarsan/fantasy-amateurs-00
+https://github.com/fknittel/git-retry-build
+https://github.com/ErikArndt/GMTK-Jam-2020
+https://github.com/E471r/crystal-distances
+https://github.com/mikeireland/chronostar
+https://github.com/djsegal/metis
+https://github.com/stepanelka/inf_21_stepanelka
+https://github.com/ipelupessy/amuse-framework
+https://github.com/squarepegsys/BGG_Counter
+https://github.com/kcornell91/kcornell91
+https://github.com/letiantian/tencent-open-source
+https://github.com/johnlibron/web-scraper
+https://github.com/lihebi/Helium
+https://github.com/astroufsc/chimera
+https://github.com/klaragolob/civilizacije
+https://github.com/michaelg29/Programming
+https://github.com/cpiwong/Complex-System-Simulation
+https://github.com/davidglo/TMCS-2018-freshStart
+https://github.com/escherba/flaubert
+https://github.com/ambicachouta/Python2018
+https://github.com/KylinMountain/TaoMM
+https://github.com/starship-ibc/stargaze-utils
+https://github.com/Yun-cong/DoubanAPI
+https://github.com/dgole/audioReactiveFadeCandy
+https://github.com/zuko88/python-turtle-games
+https://github.com/wschoenell/chimera_imported_googlecode
+https://github.com/wschoenell/csc480-chimera
+https://github.com/mikegrudic/fragthreshold
+https://github.com/Wainemo/PythonPractice
+https://github.com/pyoun/Yu-Gi-Oh-Card-Database
+https://github.com/repomint/repomint-art
+https://github.com/elf77lee/Complex-System-Simulation
+https://github.com/MateusSantosMeuBem/pylax
+https://github.com/daviddumas/mcs260fall2020
+https://github.com/julianib/space
+https://github.com/armantark/BlackholeRaytracerCS184
+https://github.com/Ultimatesicko/grOSS
+https://github.com/NcyRocks/COMPSCI-767
+https://github.com/RuthAngus/Gyro
+https://github.com/jakesorel/active_vertex
+https://github.com/a-trost/Newton
+https://github.com/cgbystrom/real-world-bazel
+https://github.com/foggie-sims/foggie
+https://github.com/Dalia-Sharra29/University-Projects
+https://github.com/Sam-Fatehmanesh/Tabby-Star
+https://github.com/ankushagrawal94/TheHackerNewsBump
+https://github.com/WeizmannVision/SelfSuperReconst
+https://github.com/mfoots/learn-pygame
+https://github.com/fumyk/shikibot
+https://github.com/ARWA-ALraddadi/python-tutorial-for-beginners
+https://github.com/RenanSampaio04/KmDB
+https://github.com/AlexLoucks/twilio-challenge
+https://github.com/jwill24/espn-api-2021
+https://github.com/SuRoryz/surbot-osu
+https://github.com/avk999/starrynight-brython
+https://github.com/Gansukii/tentaizu-solver-pygame
+https://github.com/karl-zylinski/bachelor-project
+https://github.com/JetBrains-Research/sosed
+https://github.com/nicollasanderson/KMDB
+https://github.com/Ospanova/Advanced_Django_2019
+https://github.com/computationalAstroUAM/desi_samUNIT
+https://github.com/jamesnhan/cs572-project
+https://github.com/mdm508/Anki-to-mp3
+https://github.com/yanpei18345156216/MEEP
+https://github.com/ISPPNightTurn/Clubby
+https://github.com/aklyussef/NetworkModLearner
+https://github.com/Kenzie-Academy-Brasil-Developers/m5-sprint4-kmdb-Gabriel-dsAmaral
+https://github.com/brighamray55/Computer-Science-Semester-1
+https://github.com/cwinsor/django_103_plasticc_and_ux
+https://github.com/Djouohou/Python_Certification_Training
+https://github.com/bd4/monster-hunter-scripts
+https://github.com/NanoComp/meep
+https://github.com/kbristow/ClimbQuery
+https://github.com/DP-NL/DeepPropagate-NL
+https://github.com/tardyp/sphinx-jinja
+https://github.com/Aleksey215/-Python
+https://github.com/lucas-cauhe/Kathleen.py
+https://github.com/JKaniarz/GoatChart
+https://github.com/zcxm12/website
+https://github.com/hma14/LottoEF
+https://github.com/wyhfrank/scso-crawler
+https://github.com/njuzh/DeepPropagate-NL
+https://github.com/dannykh/imdb_project
+https://github.com/evanhedding/Star_Tracker_Code
+https://github.com/xy24/github-viz
+https://github.com/hadouken726/kmdb
+https://github.com/tnakaicode/pymeep-example
+https://github.com/Gilles00/Koshkie-Server
+https://github.com/takumi0712/pixelgame
+https://github.com/SoumyaCode74/Pythonic
+https://github.com/flaviu2001/University-Projects
+https://github.com/wangyh-thss/CRM-System
+https://github.com/rubund/debian-meep
+https://github.com/k8iq/programming-language-statistic
+https://github.com/RelativelyFine/RateMyLandlord-backend
+https://github.com/lihebi/benchmark
+https://github.com/Andrew-lindsay/Code-Grep
+https://github.com/alexfriman/offidiagonal-meep
+https://github.com/debemdeboas/garoopa
+https://github.com/Aigerimmsadir/AdvancedDjango
+https://github.com/Jos-Craw/star-wars-game
+https://github.com/tnakaicode/meepDEMO
+https://github.com/ahmedemad3965/Koshkie-Server
+https://github.com/PatrickSalmi/MovieDatabase
+https://github.com/asvath/searching_for_supernovae
+https://github.com/scarletstudio/butterfly
+https://github.com/feder-observatory/stellarphot
+https://github.com/tnakaicode/PlotGallery
+https://github.com/biojs/biojs-backend
+https://github.com/benmccarthy301/Multi-poles-algorithm
+https://github.com/nturan/gravitation
+https://github.com/chenghuige/pikachu2
+https://github.com/attaurrahmanpl/PureLogic_MachineLearning_RoadMap
+https://github.com/tishmen/upwork
+https://github.com/devoctomy/piperformancerecorder
+https://github.com/bauhaus93/wishlist-scrape
+https://github.com/hbishow/surfalarm
+https://github.com/progo/moary
+https://github.com/radon-h2020/radon-repositories-collector
+https://github.com/sot/proseco
+https://github.com/mellemahp/neuroscopes
+https://github.com/Korosei/pythonProject
+https://github.com/yyuchenn/baigu-dev
+https://github.com/Kenzie-Academy-Brasil-Developers/m5-sprint4-kmdb-masterjayjay07
+https://github.com/Franck1333/GPS-Display
+https://github.com/Dagonite/python-exercises
+https://github.com/j4ckzh0u/python_hk
+https://github.com/YSOVAR/PAIRITEL
+https://github.com/GetPageSpeed/nginx-lua-extras
+https://github.com/RealistikDash/RealistikGDPS
+https://github.com/damccorm/course-work
+https://github.com/BoenDu/big_data
+https://github.com/kingspp/tf-contrib-analyzer
+https://github.com/uniba-swt/swtbahn-pidisplay
+https://github.com/dagorym/StarMapGen
+https://github.com/w4nd0/KMDB
+https://github.com/hedyhli/starcli
+https://github.com/andy-techen/github-trends
+https://github.com/Chateauvisionn/FACE4TJA
+https://github.com/lsst/rubin_sim
+https://github.com/Neafiol/CineSearch
+https://github.com/njuzh/extract_info
+https://github.com/jmccormac01/cotrending_tess
+https://github.com/lesp/LXF-DotHAT-Timesaver
+https://github.com/DaveZhang1216/share
+https://github.com/carlosbentz/django-kmdb
+https://github.com/hampuskraft/fehlerbot
+https://github.com/astariul/jilano
+https://github.com/himanshuladia/movie-recommender
+https://github.com/sahil00199/fossee-hackathon
+https://github.com/dr-guangtou/hs_hsc
+https://github.com/MinervaCollaboration/minerva-control
+https://github.com/lsst-sims/legacy_sims_utils
+https://github.com/Schippi/DiscordBot
+https://github.com/ginkoid/starbot
+https://github.com/pimoroni/displayotron
+https://github.com/breckinridge22/alternate-assignment-bigdata
+https://github.com/MartinCooke/jocular
+https://github.com/DhanJaya/Hexa-MSR-Hackathon
+https://github.com/sot/state_of_aca
+https://github.com/alanpires/kmdb-genericviews
+https://github.com/BrianTCook/amuse_env
+https://github.com/naterciaaguilar/network_analysis_github
+https://github.com/adilsondias2018/kmdbDjango
+https://github.com/GriffinG1/FlagBot
+https://github.com/joaoribas35/kmdb
+https://github.com/tylovejoy/doombot2.0
+https://github.com/Valuebai/awesome-python-io
+https://github.com/mhrydil/DBMS-Project
+https://github.com/philipgoule/temp
+https://github.com/CosmoStat/wf-psf
+https://github.com/rthornton3i/imageProcessing
+https://github.com/STFU-TEAM/stfu-rewrite
+https://github.com/aditya-sengupta/exosyssim-prototyping
+https://github.com/Niedzielan/ExponentialIdleStudentOptimiser
+https://github.com/anton-3/htb-api
+https://github.com/acmutd/hackutd-data-mining-workshop
+https://github.com/Defense-Circuits-Lab/stats_n_plots
+https://github.com/wagoner47/mond_project
+https://github.com/819598/spider
+https://github.com/andrelikesdogs/sm64-randomizer
+https://github.com/questras/allegro-zadanie-rekrutacyjne-3
+https://github.com/camitava0321/datascience
+https://github.com/gorillamania/aboinga.com
+https://github.com/amateru-code/RulateSystem
+https://github.com/tlrh314/ComputationalAstrophysics
+https://github.com/ianblackstone/cosmic-rays
+https://github.com/gfmorales31/gabesacademy
+https://github.com/gogalexandra/University
+https://github.com/ramseykarim/feedback
+https://github.com/sully90/seren3
+https://github.com/HTSTEM/DiscordBot
+https://github.com/hannah627/Van_Gogh_In_The_Age_Of_Computers
+https://github.com/clairenoel97/CPSC111
+https://github.com/dtsch/Exogen-Discord-Bot
+https://github.com/enias-oliveira/kmdb
+https://github.com/mcgillcomp361/COMP361Project
+https://github.com/cdfassnacht/keckcode
+https://github.com/catherinettt/greengears
+https://github.com/ntj/sandbox
+https://github.com/chenzw95/porygon
+https://github.com/josephcampion/spacecraft-dynamics-and-control
+https://github.com/rafaelfeliciano2020/kmd-movies
+https://github.com/DuhoKim/py_codes
+https://github.com/jedie/PyLucid-old-v0.8-trunk
+https://github.com/grzeimann/Diagnose
+https://github.com/curiouserrandy/Personal-Config
+https://github.com/UniversalDependencies/docs-automation
+https://github.com/LaryLoose/laryloose.xbmc-addons
+https://github.com/fgsepter/starcli_test
+https://github.com/aggierosa/kmdb-tests
+https://github.com/NikitinaMaria/Team_project
+https://github.com/Pirunga/kmdb
+https://github.com/JefteKeller/KMDb
+https://github.com/anji1-999/OpenGLSolarSystem
+https://github.com/tadhg-ohiggins/advent-of-code
+https://github.com/ericalaboissiere/KMDb
+https://github.com/Enoch2090/MAGI
+https://github.com/sorayamaqueda/lexic_analyzer
+https://github.com/brunopetinati/KMDb
+https://github.com/HTSTEM/StarBot
+https://github.com/christopherdh95/GITSOME
+https://github.com/east825/green-type
+https://github.com/HelenMaksimova/cat_and_mice
+https://github.com/szlin/gitsome
+https://github.com/sehyeondev/collaborative-filtering
+https://github.com/rheide/Rankkeeper
+https://github.com/seizu/plugin.video.filmpalast.ex
+https://github.com/JohnMaguire/Cardinal
+https://github.com/joshwalawender/VYSOStools
+https://github.com/jsd6018/success_likelihood_quantification
+https://github.com/dleebrown/misc_plots
+https://github.com/slaveuser/gitsome20160430
+https://github.com/suraj813/kscore
+https://github.com/jluastro/nirc2
+https://github.com/slaveuser/gitsome20180731
+https://github.com/slaveuser/gitsome20171030
+https://github.com/LiuFang816/SALSTM_py_data
+https://github.com/gronlund/cvrdata
+https://github.com/GalliumWang/Halo
+https://github.com/tommiu/GithubSpider
+https://github.com/alienlifeform/exotic-prototype
+https://github.com/donnemartin/gitsome
+https://github.com/slaveuser/gitsome20190430
+https://github.com/choisant/TNG
+https://github.com/RishabhGhora/EyeTrackingGame
+https://github.com/robotwax/vigilant-sigil
+https://github.com/rzellem/EXOTIC
+https://github.com/Gan-Tu/ML-DL-NLP
+https://github.com/canisli/KIC8462852
+https://github.com/slaveuser/gitsome20170129
+https://github.com/D3mianGianoz/Natural-Language-Processing-UniTo
+https://github.com/TLN2021/PosTagger
+https://github.com/kainzhang/kz-graduation-project-backend
+https://github.com/ggaziv/GPUtils
+https://github.com/lorenzozanisi/SF_mergers
+https://github.com/mmaguero/cloud-based-tool-SA
+https://github.com/rtk-rnjn/Parrot
+https://github.com/aamshaegar/TLN_Totus_Floreo
+https://github.com/captain-discord/captain
+https://github.com/aleksthethird/Fleming
+https://github.com/mahmoud/boltons
+https://github.com/Keck-DataReductionPipelines/KAI
+https://github.com/RealistikDash/GDPyS
+https://github.com/Loquats/pos_tagger
+https://github.com/ComanacDragos/Python-Projects
+https://github.com/WIYN-ODI/QuickReduce
+https://github.com/ellarcastelloe/bound_systems
+https://github.com/tae-hyunkim/Univ_code
+https://github.com/Gunner-Bones/Getting-Far-Bot
+https://github.com/mikehankey/amscams
+https://github.com/ivy-lai/CS235Flix
+https://github.com/vwoloszyn/MRR
+https://github.com/edose/photrix
+https://github.com/aktastuna/w3resource-Python-Exercises
+https://github.com/govl0407/swp2
+https://github.com/michaelzevin/kickIT
+https://github.com/aiyappaganesh/underdogs
+https://github.com/ahbauer/des_calib
+https://github.com/ivy-lai/CS235FlixA3
+https://github.com/snowsee/rushwars-cog
+https://github.com/true-grue/trader
+https://github.com/PikalaxALT/pikalaxbot
+https://github.com/shauryashekhar/webScrapper
+https://github.com/diegodpgs/RMSForMe
+https://github.com/mrkure/281020182
+https://github.com/tae-hyunkim/AD-Project-Maple
+https://github.com/mrkure/repo
+https://github.com/aidancgray/sdss-v-fsc
+https://github.com/DriftingPig/obiwan_dr9m
+https://github.com/SeoJeongYeop/OSSCA
+https://github.com/gatheringhallstudios/MHWorldData
+https://github.com/rgraz/PIFFZTF
+https://github.com/PythonMiniProject/Code_file
+https://github.com/teddymcw/Python-SPSS-AlamedaCounty
+https://github.com/jgsuresh/CGM2
+https://github.com/netvigator/auctions
+https://github.com/fkirmani/diffimageml
+https://github.com/SKIRT/PTS
+https://github.com/KbtuAnacondas/Project_Game
+https://github.com/vascoalramos/rest-review
+https://github.com/SuLab/biogps_dataset
+https://github.com/GourmandRecipeManager/gourmand
+https://github.com/LBJ-Wade/Piff_PSF
+https://github.com/Stargrazer82301/CAAPR
+https://github.com/vbe0201/Vale.py
+https://github.com/thinkle/gourmet
+https://github.com/Linutux/Gourmet
+https://github.com/rankrh/MountainProject
+https://github.com/RubenPeeters/RBP-bot
+https://github.com/ruymanengithub/vison
+https://github.com/johnrobertlawson/VSE_dx
+https://github.com/GhostRR3/cog-rob-fix
+https://github.com/lukasShuber/comparing-children-and-cnns
+https://github.com/DallasTrinkle/Onsager
+https://github.com/MathieuARS/GDPS-PY
+https://github.com/NeverDecaf/MangaTosho
+https://github.com/jluastro/JLU-python-code
+https://github.com/benstahl92/LOSSPhotPypeline
+https://github.com/des-science/Y3_shearcat_tests
+https://github.com/LCarnovale/Orbits
+https://github.com/astrobalaji/four_pi_website
+https://github.com/MTG/freesound
+https://github.com/EngAhmedElkady/ZCPC
+https://github.com/IvanKostyuk94/f_esc
+https://github.com/Amund211/prism
+https://github.com/shubham-bhatnagar/statsbot
+https://github.com/Jarpreet-Singh/Masters-Project
+https://github.com/TesterCC/pentest_library
+https://github.com/ztyangt/inis-theme-grace
+https://github.com/dgoceva/UKTC-Python-I
+https://github.com/bhargava-gumpula/python-basic-programs
+https://github.com/mckayreedmoore/Python-Projects
+https://github.com/danntapl/https-github.com-PlamenStilyianov-Python3
+https://github.com/Ramitha99/Progression_Outcomes_Prediction_System
+https://github.com/cindy123jl/Appbuilder9000Application
+https://github.com/baylordelrey/EPSCoR_Rover
+https://github.com/MaxPiatine/RobberRunaway
+https://github.com/bookhankaa/Python3
+https://github.com/BruceEckel/DataClassesAsTypes
+https://github.com/renguifeng/Python3Study
+https://github.com/simonpedrogonzalez/scludam
+https://github.com/majdinagi9/Libra-Constellation
+https://github.com/riwakaram/College-Python-Course
+https://github.com/GeminiHu/Trajectory-Data-Mining
+https://github.com/my001/more_learning
+https://github.com/Almarranz/Zoccali_astrophotometry
+https://github.com/haakonnese/TDT4140-Programvareutvikling
+https://github.com/dgoceva/UKTC-Python-II
+https://github.com/weilaimg/MyLadarScanner
+https://github.com/SimonMuthungu/Python-Data_Science-Web_scrapping
+https://github.com/Vremold/DLS
+https://github.com/mattkram/advent-of-code
+https://github.com/SATE-Lab/PyAPR
+https://github.com/SimonMuthungu/PYTHON-PROJECTS-
+https://github.com/sczhan/gsdiannao
+https://github.com/evertonsavio/artificial-intelligence-specialization
+https://github.com/theGreenJedi/Courses
+https://github.com/nekitdev/gd.py
+https://github.com/vasana12/python_python_git
+https://github.com/AAAMeng/application
+https://github.com/sobraxus/Uni-Work
+https://github.com/GKPSingh/Functions-Practice
+https://github.com/SiennaLi24/django_proj
+https://github.com/artbataev/dvmn_async_spaceship
+https://github.com/modelbrouwers/modelbrouwers
+https://github.com/sea3129/OpenBB
+https://github.com/lzu215/ir
+https://github.com/ticibi/discord-bot-pkb
+https://github.com/abhayp2204/Cryptography
+https://github.com/aykae/lumba
+https://github.com/gioenn/github-crawler
+https://github.com/OpenSourceSW4/Main
+https://github.com/Picklesrsolid/api
+https://github.com/stealthness/python-challenges
+https://github.com/Andromaverse-Lab/andromabot
+https://github.com/nvuillam/github-dependents-info
+https://github.com/artxia/backup
+https://github.com/majkelx/astwro
+https://github.com/JBorchelli/exoplanet_viewer_core
+https://github.com/JaimeRZP/xCell_Jaime
+https://github.com/Willy-JL/F95Checker
+https://github.com/hhyein/amazonCrawling
+https://github.com/skybber/fchart3
+https://github.com/uhlerlab/bmtm-mle
+https://github.com/asteca/ASteCA
+https://github.com/kousei1015/react_django
+https://github.com/bjxpen/a1696994-2022-research
+https://github.com/r0flc0pt4/boltons
+https://github.com/farisdurrani/SpaceshipBattle
+https://github.com/deepin-community/inkscape
+https://github.com/wenuam/wm_doc_latex
+https://github.com/sugi-chan/Pendragon_Alter
+https://github.com/thomasmolnar/virac_classifier
+https://github.com/mathics/Mathics
+https://github.com/chris0765/AD_Project
+https://github.com/netvigator/pyPacks
+https://github.com/Norsk-Programmering/ProgBott
+https://github.com/muhammadmnorouzi/DirtyProjects
+https://github.com/akkana/scripts
+https://github.com/ThibaudLamothe/uthibs
+https://github.com/standardgalactic/arepo_to_skirt
+https://github.com/clarket33/NBA-Business-Analytics
+https://github.com/ExoWorldsSpies/hops
+https://github.com/mnicholl/photometry-sans-frustration
+https://github.com/Mathics3/mathics-core
+https://github.com/ntf229/RT_fit
+https://github.com/YashaPushak/LAAAC
+https://github.com/jinfagang/alfred
+https://github.com/lsst-ts/create_bright_stars_catalog
+https://github.com/kaitlynwesting/caroline
+https://github.com/inha-slab/similaritySegmentation
+https://github.com/philspil66/StarTrader-Python
+https://github.com/jorgemarpa/EXBA_pathfinder
+https://github.com/swarfarm/swarfarm
+https://github.com/stubbslab/general_purpose_python_scripts
+https://github.com/uiucsn/astro_ghost
+https://github.com/Stelmaszv/video-collector-v2
+https://github.com/arthur-debert/google-code-issues-migrator
+https://github.com/QuatZo/swstats
+https://github.com/stubbslab/SpectrographAnalysis
+https://github.com/lsst-sims/legacy_sims_catUtils
+https://github.com/sdss/astra
+https://github.com/p1xxxel/grOSS
+https://github.com/cwendt94/espn-api
+https://github.com/xC-ell/xCell
+https://github.com/hehao98/LibraryMigration
+https://github.com/xiaog1026/recipe_server
+https://github.com/carlosbentz/django-kmdb-viewsets
+https://github.com/zenml-io/github-trending-backend
+https://github.com/PRFina/TLN2021
+https://github.com/BlablaOlya/boltons
+https://github.com/Westo48/StrikeCommander
+https://github.com/hiddenSymmetries/simsopt
+https://github.com/mrosseel/vast-automation
+https://github.com/Undariya-Purevdorj/Python-Animation-Final-Project-2022
+https://github.com/mjfitzpatrick/cmdmag
+https://github.com/ColibriKBO/ColibriPipeline
+https://github.com/ColibriKBO/RachelPipeline
+https://github.com/gnarlyquack/gourmet
+https://github.com/jorgemarpa/kepler-apertures
+https://github.com/rmjarvis/Piff
+https://github.com/AbstractUmbra/Kukiko-archive
+https://github.com/GhostRR3/cogs-rob
+https://github.com/Pavlyuchenko/Projekt-Jidelna
+https://github.com/Fyssion/Clam
+https://github.com/BeatButton/Akane
+https://github.com/thesupporthero/Mercybot
+https://github.com/Pao-Lumu/PyMiki
+https://github.com/transcelestial/tmogs-noice
+https://github.com/arhstevens/Dirty-AstroPy
+https://github.com/GSPROGRAMREPO/the-last-commander-game
+https://github.com/bsobotka/amv_tracker
+https://github.com/mkobar/flaskApi
+https://github.com/myselfhimself/gmic-blender
+https://github.com/LucIJspeert/StarPopSim
+https://github.com/stevertaylor/NX01
+https://github.com/zjiuyang/TweetEMR
+https://github.com/Noobly-Walker/Zakobot
+https://github.com/LBJ-Wade/NX01
+https://github.com/VinceVB/SpinoffDexProject
+https://github.com/jmorales4/W205-RJCL-Public
+https://github.com/itoutry45/mltb
+https://github.com/kriesnawanh98/backend
+https://github.com/SynthSix/quizlet
+https://github.com/Lns-XueFeng/LearnNoStopping
+https://github.com/Horus91/VercelSite
+https://github.com/coojee2012/fastapi-mutil-mock
+https://github.com/reggi49/uap
+https://github.com/wikistat/AI-Frameworks
+https://github.com/iBug/This-Repo-Has-507-Stars	:507
+https://github.com/horizon3ai/CVE-2022-40684	:289
+https://github.com/hackingthemarkets/supertrend-crypto-bot	:247
+https://github.com/Audiobahn/CVE-2022-20699	:237
+https://github.com/ghidraninja/game-and-watch-hacking	:229
+https://github.com/0x09AL/WordSteal	:227
+https://github.com/S3cuRiTy-Er1C/JebScripts	:200
+https://github.com/dongb5/Retinex	:185
+https://github.com/KalleHallden/pwManager	:175
+https://github.com/TechnicalMujeeb/Termux-Login-v1.2	:173
+https://github.com/AlphaJia/keras_unet_plus_plus	:165
+https://github.com/howCodeORG/Simple-Python-Blockchain	:138
+https://github.com/K0lb3/GenshinImpact	:137
+https://github.com/ZongxianLee/MMD_Loss.Pytorch	:132
+https://github.com/HelloMaoTai/jd-seckill-maotai	:129
+https://github.com/odziom91/libadwaita-theme-changer	:124
+https://github.com/PlayingNumbers/data_science_starter	:121
+https://github.com/HelloMaoTai/taobao-seckill-maotai	:118
+https://github.com/kn32/python-buffered-reader-exploit	:114
+https://github.com/rafaballerini/Tamagotchi	:105
+https://github.com/lyz8jj0/mac-teamviewer-crack	:102
+https://github.com/streamlit/streamlit-example	:102
+https://github.com/ProgrammingHero1/my_cool_browser	:99
+https://github.com/Ryujinx/release-channel-master	:98
+https://github.com/awnumar/blind-sql-bitshifting	:88
+https://github.com/hackingthemarkets/tradingview-webhooks	:86
+https://github.com/techwithtim/3-Python-Automation-Projects	:85
+https://github.com/ProgrammingHero1/eye_controlled_mouse	:82
+https://github.com/jg-fisher/botnet	:74
+https://github.com/DeadBread76/Discord-server-joiner	:73
+https://github.com/shallowtoil/DRConv-PyTorch	:72
+https://github.com/cacois/python-configparser-examples	:71
+https://github.com/adamjezek98/MPU6050-ESP8266-MicroPython	:71
+https://github.com/kying18/guess-the-number	:71
+https://github.com/techwithtim/Python-Security-Camera	:70
+https://github.com/KiLL3R-xRO/X-Whatsapp	:68
+https://github.com/FaztWeb/python-tkinter-sqlite-crud	:68
+https://github.com/hackingthemarkets/tradingview-tdameritrade-option-bot	:67
+https://github.com/evelinehong/Transformer_Relative_Position_PyTorch	:67
+https://github.com/buraksarpkaya89/Python-shopping-CheckPrice	:66
+https://github.com/ghidraninja/wyze_scripts	:66
+https://github.com/techwithtim/Python-Planet-Simulation	:64
+https://github.com/veggiedefender/pyc-secret-lab	:62
+https://github.com/satssehgal/Excel_Splitter_Combiner	:62
+https://github.com/riclc/nautilus_backspace	:61
+https://github.com/dinosn/spring-core-rce	:60
+https://github.com/redianmarku/tiktok-autouploader	:59
+https://github.com/AlexxIT/yandex_smart_home_fix	:58
+https://github.com/krishnaik06/Transfer-Learning	:58
+https://github.com/nschurmann/organizr	:56
+https://github.com/Jake0303/SimplePythonAlpacaStockTradingBot	:53
+https://github.com/techwithtim/ExcelPythonTutorial	:53
+https://github.com/Unknow101/FuckThatSmuggler	:53
+https://github.com/dinhbaouit/CVE-2021-26084	:52
+https://github.com/falcondai/python-snowflake	:51
+https://github.com/singe/ebpf-docker-for-mac	:50
+https://github.com/sherwinbahmani/3dvideogeneration	:50
+https://github.com/ProgrammingHero1/email-bot	:49
+https://github.com/bdunlap9/.Exe-to-.Doc-Exploit	:49
+https://github.com/tothi/hs-dvr-telnet	:48
+https://github.com/theDreamer911/brute-force-instagram	:47
+https://github.com/krishnaik06/simple-Linear-Regression	:46
+https://github.com/muzuiget/mitmpcap	:46
+https://github.com/ghostlulzhacks/crawler	:46
+https://github.com/hackingthemarkets/alpaca-market-data-streaming-api	:46
+https://github.com/NeuralNine/crypto-analysis	:46
+https://github.com/yushuhuang/webcam	:46
+https://github.com/subhan-nadeem/bitcoin-mining-python	:44
+https://github.com/yk/huggingface-nlp-demo	:44
+https://github.com/rdblue/jupyter-zeppelin	:44
+https://github.com/sdkcodes/heroku-config	:43
+https://github.com/jhnwr/image-downloader	:43
+https://github.com/getlinksc/scrape_google	:43
+https://github.com/amriunix/CVE-2007-2447	:43
+https://github.com/lesliejackson/PyTorch-Distributed-Training	:43
+https://github.com/TDeVries/cub2011_dataset	:43
+https://github.com/guilhermej/dnsbrute	:41
+https://github.com/bionick87/ConvGRUCell-pytorch	:42
+https://github.com/r1cebank/tf-ckpt-2-pb	:41
+https://github.com/gh0stkey/FuckAnywhere	:41
+https://github.com/junhoyeo/youtube-music-tabfs	:41
+https://github.com/nikhilkumarsingh/async-http-requests-tut	:40
+https://github.com/ProgrammingHero1/predict-iphone-price-project	:40
+https://github.com/techwithtim/Image-Scraper-And-Downloader	:40
+https://github.com/llSourcell/recurrent_neural_net_demo	:40
+https://github.com/neubig/coderx	:39
+https://github.com/Cloudiver/tencent_meeting	:39
+https://github.com/misbah4064/drowsinessDetector	:39
+https://github.com/techwithtim/Sorting-Algorithm-Visualizer	:39
+https://github.com/jumejume1/pi-l298n-dc-motor	:38
+https://github.com/paulhendricks/gym-inventory	:37
+https://github.com/Jabrils/Download-All-YouTube-Comments-From-Any-Video	:36
+https://github.com/mc-capolei/python-Universal-robot-kinematics	:36
+https://github.com/nicknochnack/StableDiffusionApp	:36
+https://github.com/ghostlulzhacks/CertificateTransparencyLogs	:35
+https://github.com/shanfenglan/bruteforce_cs_pwd	:35
+https://github.com/ziyujia/Signal-feature-extraction_DE-and-PSD	:35
+https://github.com/x1tan/CVE-2019-13025	:35
+https://github.com/RimoChan/i7h	:35
+https://github.com/isaychris/python-autoclicker	:35
+https://github.com/johnafish/sketchbook	:34
+https://github.com/SIIL3NT/auto-report	:33
+https://github.com/TechEthical/WAattack	:33
+https://github.com/servetgulnaroglu/ytb_snake_py	:33
+https://github.com/hibyby/GrandmaCan_first_pygame	:33
+https://github.com/techwithtim/Python-Slot-Machine	:33
+https://github.com/NickstaDB/xamarin-decompress	:33
+https://github.com/eslavnov/android-tv-remote	:32
+https://github.com/tyrion/sse-websockets-demo	:32
+https://github.com/ProgrammingHero1/secret_capture	:32
+https://github.com/BrucessKING/CVE-2021-36749	:32
+https://github.com/sanamkandar/Library-management-system	:31
+https://github.com/pbelskiy/docker-usb-sync	:31
+https://github.com/zz-zye/youtube	:31
+https://github.com/hotwire-django/hotwire-django	:31
+https://github.com/MasterXCode/Phishing	:31
+https://github.com/jg-fisher/protonMailGenerator	:31
+https://github.com/pythonlibrary/talk-to-your-car	:31
+https://github.com/jacobian/django-postgres-unlimited-varchar	:31
+https://github.com/eli-byers/Deck-Of-Cards-Python	:31
+https://github.com/TulgaRGB/tiktok-view	:30
+https://github.com/techwithtim/Ethereum-Wallet-Tracker	:30
+https://github.com/jiansiting/ripple20-poc	:30
+https://github.com/ProgrammingHero1/fantastic_IDE	:30
+https://github.com/stens-sec/autokey	:30
+https://github.com/tiktokmate/X-Gorgon-X-Khronos-Tik-Tok	:30
+https://github.com/code-and-dogs/mqtt-python	:30
+https://github.com/jvns/tiny-python-dns-server	:29
+https://github.com/amatiashov/YT-Docker-lesson	:28
+https://github.com/MalwareTech/FollinaExtractor	:28
+https://github.com/cw-somil/Duplicate-Remover	:28
+https://github.com/20000s/ida_debug_helper	:28
+https://github.com/teddykoker/performer	:28
+https://github.com/JoakimDeak/reddit-migrator	:27
+https://github.com/mayorx/hungarian-algorithm	:27
+https://github.com/wshuyi/demo-roam-image-bak	:27
+https://github.com/crowsec-edtech/CVE-2022-26134	:27
+https://github.com/SelmanKahya/python-scraper	:27
+https://github.com/d4r3topk/comparing-audio-files-python	:32
+https://github.com/j2kun/imsdb_download_all_scripts	:26
+https://github.com/z1un/NC-BeanShell-RCE	:26
+https://github.com/indently/premium_telegram_bot_2021	:26
+https://github.com/stong/static.py	:25
+https://github.com/rushter/blog_code	:25
+https://github.com/testdrivenio/fastapi-tortoise-aerich	:25
+https://github.com/techwithtim/Pong-Python	:25
+https://github.com/huhaorui/FuckCAJ	:25
+https://github.com/tyagi-py/NASA-scrapper	:24
+https://github.com/JesseClarkND/abnormalizer	:25
+https://github.com/yashrathi-git/10fastfingers-bot	:25
+https://github.com/JohnHammond/CVE-2012-2982	:25
+https://github.com/xcscxr/Recaptcha-v3-bypass	:25
+https://github.com/theAIGuysCode/YoloGenerateTrainingFile	:25
+https://github.com/KeithGalli/python-classes-tutorial	:25
+https://github.com/weberrr/PE-LTR	:25
+https://github.com/Antid0teCom/aarch64_mte	:25
+https://github.com/Kunalgoyal450/Screen-Recorder	:24
+https://github.com/jtpereyda/boofuzz-http	:24
+https://github.com/maxpl0it/Unauthenticated-CVE-2020-0796-PoC	:24
+https://github.com/prp-e/leetflix-cli	:24
+https://github.com/kdave/audio-compare	:24
+https://github.com/nathanfarlow/nathanfarlow	:24
+https://github.com/iniridwanul/Vent	:24
+https://github.com/skidghoul/ChaosGenerator	:24
+https://github.com/FideliusFalcon/rpi_pico_max7219	:24
+https://github.com/ProgrammingHero1/webcamfun	:24
+https://github.com/mpapazog/heic-to-jpg	:23
+https://github.com/its-arun/Werkzeug-Debug-RCE	:23
+https://github.com/Arijit1080/Live-Video-Stream-from-Raspberry-Pi-Camera-over-the-Network	:23
+https://github.com/standupmaths/prime_tan	:23
+https://github.com/self-tuts/python-flask-docker-image	:25
+https://github.com/valentina1987/bingdundun_py	:23
+https://github.com/kshyam/flask-api	:23
+https://github.com/MethodJiao/VsProjectRename	:22
+https://github.com/RimoChan/changgelog	:22
+https://github.com/limacv/RGB_HSV_HSL	:22
+https://github.com/HeyImJ0hn/RudeBot	:22
+https://github.com/xinli2/Motlon-Parallax	:22
+https://github.com/techwithtim/Turtle-Racing-V2	:22
+https://github.com/david-wb/softargmax	:22
+https://github.com/joshlong/unzip-and-open	:22
+https://github.com/kumopult/blender_ShapeKeyRetargeting	:22
+https://github.com/scalablescripts/fast-api-event-driven	:22
+https://github.com/Jabromen/Python-Alarm-Clock	:22
+https://github.com/ahmad0x1/Acquisitions	:22
+https://github.com/tenych69/QiwiGrabber	:22
+https://github.com/Hackeinstein/smtp-to-sms	:22
+https://github.com/0xeb-bp/cve-2020-16898	:21
+https://github.com/IsseiMori/binary-stl-toASCII	:21
+https://github.com/pdomala/LambdaCDDemo	:22
+https://github.com/xinli2/Convert-to-English	:21
+https://github.com/ryanchankh/cifar100coarse	:21
+https://github.com/c0cee/multifclone	:21
+https://github.com/juhongm999/pervit	:21
+https://github.com/xditya/TorrentSearch	:21
+https://github.com/moshfiqur/html2mobi	:21
+https://github.com/novaws/masscan-parser	:21
+https://github.com/shuaizzZ/Recall-Loss-PyTorch	:21
+https://github.com/pythontoday/yobit_bot	:21
+https://github.com/banteg/etherscan-cache	:21
+https://github.com/tkf/inkscape-export-layers	:21
+https://github.com/NikolaGjorgjijoski/Monkey-Type-Bot	:21
+https://github.com/hoki0/Discord-mass-report	:21
+https://github.com/xcscxr/psa	:21
+https://github.com/RishabKattimani/WebAutomationPython	:21
+https://github.com/FeSeason/sentry-10-dingding	:20
+https://github.com/wolf43/AES-GCM-example	:20
+https://github.com/wilsonlsm006/simbert_task	:20
+https://github.com/iniridwanul/Braineers	:20
+https://github.com/iniridwanul/Ridtube	:20
+https://github.com/xditya/ViewCountBot	:20
+https://github.com/JasonHaley/hello-python	:20
+https://github.com/prasanthlouis/Youtube-Downloader	:20
+https://github.com/Qiantigers/TelegramBot_douyin	:20
+https://github.com/Vidito/webscraping_housing	:20
+https://github.com/vinaykachare/ZerodhaRequestToken	:19
+https://github.com/makaravind/ECommerceWebScraper	:19
+https://github.com/SandyCrystal/bilibili_dynamic_gift	:19
+https://github.com/HbsAdithya/Trading-Bot-Algorithm	:19
+https://github.com/sharshub/django-pk-to-uuid	:19
+https://github.com/ceciliaresearch/four_things_batch_norm	:19
+https://github.com/prosirr/instagramHacker	:19
+https://github.com/xinli2/Where-s-The-Money	:19
+https://github.com/ca333/rng-scanner	:19
+https://github.com/xinli2/Contact-Manager	:19
+https://github.com/mahesh147/Simple-Linear-Regression	:19
+https://github.com/s7anley/aws-ecs-service-stop-lambda	:19
+https://github.com/jg-fisher/redditSentiment	:19
+https://github.com/xinli2/Three	:19
+https://github.com/mqzhang/wechat_work_webhook_py	:19
+https://github.com/xinli2/Landmarks	:19
+https://github.com/AammarTufail/streamlit_apps	:18
+https://github.com/ahmadalibagheri/cdktf-python-aws-s3bucket	:18
+https://github.com/DavideMerlin/Automated_login	:19
+https://github.com/nickrr7001/AlpacaTradingBot	:18
+https://github.com/timwhitez/find-subdomain-by-xray	:18
+https://github.com/momika233/CVE-2020-16898-exp	:18
+https://github.com/CTF-MissFeng/portscan	:18
+https://github.com/sheensantoscapadngan/gmeetbot	:18
+https://github.com/JacobPimental/r2-gohelper	:18
+https://github.com/Mr-Lizhibo/seckill_taobao	:18
+https://github.com/ProgrammingHero1/alexa	:18
+https://github.com/aditya-saxena-7/Lithium-Ion-Battery-Deep-Neural-Network-	:18
+https://github.com/MartinIngesen/gpocrack	:19
+https://github.com/xinli2/Encrypter-Decrypter	:18
+https://github.com/Pythondeveloper6/Python3-Tutorials-Arabic-basics	:18
+https://github.com/xiaoyeqiannian/wechart_img_convertor	:18
+https://github.com/Magoninho/3D-projection-tutorial	:18
+https://github.com/sr2echa/Discord-Token-Generator	:18
+https://github.com/yxdr/pytorch-multi-class-focal-loss	:18
+https://github.com/kying18/rock-paper-scissors	:18
+https://github.com/rahulsinghinfosec/keylogger	:18
+https://github.com/BunyaminEfe/Get-ip-Address-Using-Python	:18
+https://github.com/pythontoday/weather_telegram_bot	:18
+https://github.com/abhishek305/Motion-capture-using-opencv-contours	:17
+https://github.com/yjh0410/PyTorch_DCNv2	:17
+https://github.com/RajaSubramanian10/WebScrap-Plot	:17
+https://github.com/sectasy0/reshell.py	:17
+https://github.com/clear-code-projects/2D_Platformer_Logic	:17
+https://github.com/xinli2/Animated-QuickSort	:17
+https://github.com/zwqwo/PINN_scratch	:17
+https://github.com/iamalsaher/CVE-POCs	:17
+https://github.com/Syps/desk_alert_button	:17
+https://github.com/fs0c131y/GJ-FRANCE-FAIL	:17
+https://github.com/bmorcos/pre-commit-hooks-cpp	:17
+https://github.com/xinli2/Two-dancing-figures	:17
+https://github.com/BekBrace/FASTAPI-and-JWT-Authentication	:17
+https://github.com/Diefunction/CVE-2019-10149	:17
+https://github.com/roryk/Delicious	:17
+https://github.com/adamkrellenstein/unspendable	:17
+https://github.com/xinli2/Summarizer	:17
+https://github.com/ZeWang95/scs_pytorch	:17
+https://github.com/jhnwr/scrape-amazon-reviews	:17
+https://github.com/anandtripathi5/flask-apispec-flask-restful	:17
+https://github.com/bragadeeshs/cowinalerts	:17
+https://github.com/FaztWeb/flask-mysql-restapi-sqlalchemy	:17
+https://github.com/Gameye98/ccgen	:17
+https://github.com/h4ckm310n/Unlock-Vivo	:17
+https://github.com/xinli2/Shaper	:17
+https://github.com/Team-Kujira/terraswap-wifeswap	:17
+https://github.com/ASebastian27/Reddit-Account-Deleter	:17
+https://github.com/imdadahad/spotify-get-current-playing-track	:16
+https://github.com/matiasepalacios/visausa	:16
+https://github.com/netopaschoal/cadastro_produtos_python_mysql	:16
+https://github.com/vieiraroger/crud-flask	:16
+https://github.com/thebotsmith/mesh-bypass	:16
+https://github.com/JulianPinzaru/stylegan2-ada-pytorch-multiclass-labels	:16
+https://github.com/jjhelmus/give-me-python	:16
+https://github.com/RomanMichaelPaolucci/Dynamic_Algorithmic_Trading_Systems	:16
+https://github.com/hoavt184/CVE-2021-22941	:16
+https://github.com/gurgleapps/rotary-encoder	:16
+https://github.com/nkjcqvcpi/ASR	:16
+https://github.com/Johannes4Linux/Simple-ModbusTCP-Server	:16
+https://github.com/self-tuts/kafka-for-beginners-training	:16
+https://github.com/xinli2/Maze	:16
+https://github.com/Lynten/smt	:16
+https://github.com/xcscxr/droplink-bypass	:16
+https://github.com/bofinbabu/cryptocurrency-price-alert	:16
+https://github.com/quadency/strategy-coder	:16
+https://github.com/thiag0-dot/LojaRoupa_def	:16
+https://github.com/ProgrammingHero1/virtual_mouse	:16
+https://github.com/P403n1x87/m27q	:15
+https://github.com/ErmiasBahru/chrome_password_extractor	:15
+https://github.com/mfrashad/opensea-scraper	:15
+https://github.com/sleepxd/Nitro-Generator	:14
+https://github.com/jp-developer0/scalper	:15
+https://github.com/ashutosh1919/kubernetes-deploy-tutorial	:15
+https://github.com/ScopesFromDenmark/Tiktok-Report-bot	:15
+https://github.com/zeke/replicate-prediction-to-video	:15
+https://github.com/caspd3v/ipa-deb	:15
+https://github.com/sht2017/Unlock-INVAXION-	:15
+https://github.com/pythontoday/brute_excel	:15
+https://github.com/roytalman/LSTM-FCN-Pytorch	:15
+https://github.com/xinli2/1D-Chess	:15
+https://github.com/xcscxr/linkvertise-bypass	:15
+https://github.com/vijay-prema/audient-evo-linux-tools	:15
+https://github.com/pooya-mohammadi/annotation2mask	:15
+https://github.com/SpiderLabs/masher	:15
+https://github.com/xcscxr/adfly-bypass	:15
+https://github.com/Supernova1024/33Generate-random-images	:15
+https://github.com/xinli2/Spellcheck	:15
+https://github.com/adv4000/lambda_edge_python	:15
+https://github.com/ProgrammingHero1/smart_scanner	:15
+https://github.com/flyngdutchman/SpamCall	:15
+https://github.com/mauler/docker-simple-ftp-server	:14
+https://github.com/sysopfb/GoMang	:15
+https://github.com/pythontoday/discount_bot	:15
+https://github.com/smokeme/ProxyNotShell	:15
+https://github.com/jamesshah/GoogleForm-AutoFill	:15
+https://github.com/hackingthemarkets/alpaca-bracket-order	:16
+https://github.com/kalaidin/ipytelegram	:15
+https://github.com/amanjeetsingh150/SforSwagBot	:15
+https://github.com/malware-unicorn/macho_shellcode_extractor	:15
+https://github.com/lbrack1/kafka-tutorial	:15
+https://github.com/isosphere/Clue-Period-Tracker-Backup-Converter	:15
+https://github.com/777PlayZ/Discord-Server-Cloner	:15
+https://github.com/xinli2/python-tree	:15
+https://github.com/DeepTrial/pascal-5	:15
+https://github.com/redianmarku/snapchat-message-bot	:15
+https://github.com/AlGaRitm2020/telethon_forwarding	:15
+https://github.com/xinli2/pipegrid	:15
+https://github.com/xcscxr/hubdrive-dl	:15
+https://github.com/shreyamalogi/Tennis_Video-Game	:15
+https://github.com/xinli2/python-recursion-practice	:15
+https://github.com/Elmasekar/UnitTest-scroll	:14
+https://github.com/NABEGHEHACOM/WifiExtractor	:14
+https://github.com/dtaivpp/text_rpg_engine	:14
+https://github.com/j2kun/load-balancing	:14
+https://github.com/edsantoshn/NumerosPerfectos	:14
+https://github.com/xinli2/Check-move-and-update-board	:14
+https://github.com/DeadBread76/Server-Worm	:14
+https://github.com/TeddyNight/zhongxin_downloader	:14
+https://github.com/harlo/between-me-and-you	:14
+https://github.com/ringa-tech/youtube-tensorflow-mnist	:14
+https://github.com/IfClause/KucoinTrailingStopLoss	:14
+https://github.com/abhishekkrthakur/autonlp	:14
+https://github.com/MuirlandOracle/CVE-2019-17662	:14
+https://github.com/alexey-goloburdin/react-typescript-component-generator	:14
+https://github.com/georgGrankvist/TelegramShiller9000	:14
+https://github.com/febinbabu1660/pythonlab_exam	:14
+https://github.com/xinli2/Infographic	:14
+https://github.com/mhaskar/CVE-2019-20224	:14
+https://github.com/Neboer/baiduwangpanfiller	:14
+https://github.com/diniscm/Snake-Python	:14
+https://github.com/better-data-science/Apache-Kafka-in-Python	:14
+https://github.com/olofk/fusesocotb	:14
+https://github.com/jpmorganchase/opencell	:14
+https://github.com/TradeEasyWithMe/BANKNIFTY-OPTION-STRTEGY-BULL-CALL-SPREAD-ALGO-TRADING-with-LIVE-Execution	:14
+https://github.com/ajinkyapadwad/OpenCV-with-Tkinter	:14
+https://github.com/dickens88/cve-2020-0796-scanner	:14
+https://github.com/BackendPython/Five-python-work	:14
+https://github.com/coding-pythonx/supermarket-cashier	:14
+https://github.com/Parichay-Singh/Face-and-Landmark-Detection-via-Webcam	:14
+https://github.com/python019/tcp-chat-simple	:14
+https://github.com/nicknochnack/RapGod	:14
+https://github.com/Henry4E36/VMWare-vRealize-SSRF	:15
+https://github.com/xinli2/Bars	:14
+https://github.com/haris989/Email-Id-Extractor-Python	:14
+https://github.com/kosta93/Google_trends	:14
+https://github.com/Elmasekar/UnitTest-multiple-tabs	:14
+https://github.com/ekaj2/MeshTools	:14
+https://github.com/alpiii/chrome-thief	:14
+https://github.com/xditya/PyrogramBot	:14
+https://github.com/p910/python	:14
+https://github.com/permutationlock/merge-pgn	:14
+https://github.com/hackingthemarkets/alpaca	:15
+https://github.com/Artmann/blender-batch-fbx-exporter	:13
+https://github.com/mnmjh1215/CSN-PyTorch	:13
+https://github.com/httpsluanas/eu-aprendendo-python	:13
+https://github.com/juanirming/flipnoise	:13
+https://github.com/JohnHammond/CVE-2020-35846	:13
+https://github.com/SmarterDM/http-request-catcher	:13
+https://github.com/jakobowsky/InstagramGiveawayScraper	:14
+https://github.com/AlexisAhmed/pyTube-Video-Downloader	:13
+https://github.com/Tk369/pluginS	:13
+https://github.com/luisffc/jenkins-metrics-plugin-to-zabbix	:14
+https://github.com/codecravings/InstaUnfollower	:12
+https://github.com/Warlord27/Flask	:13
+https://github.com/ubernostrum/rickroll	:13
+https://github.com/cianomahonyy/uccexambot	:13
+https://github.com/virusdefender/ssrf-app	:13
+https://github.com/esteban-uo/aws-cdk-python-application-dependencies	:13
+https://github.com/Henry4E36/HikvisionInformation	:13
+https://github.com/dvush/seaport-gascompare	:13
+https://github.com/gsampallo/esp32cam-python	:13
+https://github.com/hibyby/GrandmaCan_python_selenium	:13
+https://github.com/render-examples/fastapi	:13
+https://github.com/HighVoltages/Python-arduino-realtime-graph	:15
+https://github.com/windelbouwman/pyspeedscope	:14
+https://github.com/KevinFMcKinney/Typing_Test_Bot	:13
+https://github.com/L4legenda/OpenCV_YOLO	:13
+https://github.com/duskybomb/tlstm	:13
+https://github.com/hwandev12/python-advance-darslar	:13
+https://github.com/czz/gxlu	:13
+https://github.com/hkslover/img-m3u8	:13
+https://github.com/FaztWeb/python-pymongo-restapi-crud	:13
+https://github.com/mclmza/AWarp	:13
+https://github.com/guilhermesilveira/coronavirus-sad-art-visualization	:13
+https://github.com/xinli2/Stock-Plotter	:13
+https://github.com/Bainky/pyDiscordGrabber	:13
+https://github.com/techwithtim/Tuya-Smart-IOT-Tutorial	:13
+https://github.com/misbah4064/object_tracking	:13
+https://github.com/Elmasekar/UnitTest-verify-download	:12
+https://github.com/5gstudent/CVE-2021-22005-	:12
+https://github.com/thautwarm/goto.py	:12
+https://github.com/0xhatim/Python-Checker-Instagram	:12
+https://github.com/yaunsky/cve-2021-25646	:12
+https://github.com/ansafo/CNN_RusAlph	:12
+https://github.com/aclytle/Motorola-Modem-Reboot	:12
+https://github.com/Shadid12/flask-graphql	:12
+https://github.com/mlr0p/CVE-2021-33564	:12
+https://github.com/Thens18/hello	:12
+https://github.com/thisisparker/automosh	:12
+https://github.com/czietz/wifimicroscope	:12
+https://github.com/jhand2/acpiparse	:12
+https://github.com/shreyamalogi/URL-shortener	:12
+https://github.com/aliir74/DownloadAllMediaBot	:12
+https://github.com/lucpogo/SpringerBooks	:12
+https://github.com/mmumshad/simple-webapp-docker	:12
+https://github.com/do-community/python3_web_api_tutorial	:12
+https://github.com/Yang-Zhongshan/jxnu-bookseat	:13
+https://github.com/drohe/scrape_sitemaps	:12
+https://github.com/CCob/Jboss-Wilfly-Hashes-to-Hashcat	:12
+https://github.com/itsdeka/vercelfastapi	:12
+https://github.com/ravishankarsingh1996/fcm-push-notification-python-script	:12
+https://github.com/vsenger/AWSInAction	:12
+https://github.com/V-Sher/Medium_Imports_Tutorial	:12
+https://github.com/M4cs/pltransfer	:12
+https://github.com/shreyamalogi/google-logo	:12
+https://github.com/natrixdev/TIKTOK_REPORTBOT	:12
+https://github.com/brienna/twitter-helper-scripts	:12
+https://github.com/keliousabdelhak/Python-from-json-to-sql	:11
+https://github.com/errodringer/selenium_con_python	:12
+https://github.com/safe3s/CVE-2022-2185-poc	:12
+https://github.com/veryacademy/FastAPI_AWS_Lambda_Deployment	:12
+https://github.com/Rashidov21/python_parser	:12
+https://github.com/nihandincer/ARL-AssociationRuleLearning-	:12
+https://github.com/Zold1/sqli-dorks-generator	:12
+https://github.com/lunasorcery/zat	:12
+https://github.com/Youngestdev/treasure-hunter	:14
+https://github.com/MaherAzzouzi/CVE-2022-23967	:15
+https://github.com/NingAnMe/Label-Smoothing-for-CrossEntropyLoss-PyTorch	:13
+https://github.com/aimadnet/tiktok-cdn-image-expiration-hack	:12
+https://github.com/SelimHorri/txt-to-speech-funny-random-jokes	:12
+https://github.com/xtekky/gmail-checker	:12
+https://github.com/sml2h3/ylgy	:12
+https://github.com/SaltNego/telegram_python_bot	:12
+https://github.com/animeforreal/Not-Quite-Nitro-Python	:12
+https://github.com/evanemran/snake_py	:12
+https://github.com/ccabc55555/CNN-BiGRU-Attention	:12
+https://github.com/nichcuta/Proton-Mail	:12
+https://github.com/cenobar/TPO	:14
+https://github.com/kitohe/android-cam-to-pc	:12
+https://github.com/tuomaskivioja/timeManagementAutomator	:11
+https://github.com/xtekky/TikTok-Share-Bot	:11
+https://github.com/666wcy/aria2_rss	:11
+https://github.com/Th3Ang3lo/air-alert-monitor	:11
+https://github.com/soumilshah1995/PythonLambdaDockerECR	:11
+https://github.com/XiaoCode-er/3D-Skeleton-Display	:11
+https://github.com/akioguru/ethereum-wallet-balance-checker	:11
+https://github.com/AgatsumaZen1tsu/homeassistant.components.weather.Weathernmc	:11
+https://github.com/sirius8050/Expected-Calibration-Error	:11
+https://github.com/Dimbreath/genshinps	:11
+https://github.com/anjalikumawat2002/Digital-Clock---Python	:11
+https://github.com/Tau-J/MultilabelCrossEntropyLoss-Pytorch	:11
+https://github.com/desmonduz/RedditSavedScraper	:11
+https://github.com/matheuspython/clock-in-python	:11
+https://github.com/TheBuildingBlock/python-package	:11
+https://github.com/abhijith365/python-Math-Quiz	:11
+https://github.com/sysdogs/tfmodvercheck	:11
+https://github.com/BernardoOlisan/HandVolume	:11
+https://github.com/shailypriya/snakegame	:11
+https://github.com/roubles/kubeshell	:11
+https://github.com/Roxe322/praktikum_reviewer_test_task	:11
+https://github.com/FaztWeb/fastapi-mongodb-restapi	:11
+https://github.com/coding-pythonx/employee-crud-app	:11
+https://github.com/errorBrain/SpamCall	:11
+https://github.com/rnevius/minimal-django	:526
+https://github.com/13812851221/-rxrw-daily_morning	:486
+https://github.com/wodxgod/Discord-Token-Grabber	:427
+https://github.com/aj-4/tinder-swipe-bot	:411
+https://github.com/guardicore/vmware_vcenter_cve_2020_3952	:263
+https://github.com/airingursb/bilibili-video	:256
+https://github.com/NeuralNine/youtube-downloader-converter	:249
+https://github.com/ambionics/laravel-exploits	:227
+https://github.com/techwithtim/5-Python-Projects-For-Beginners	:198
+https://github.com/standupmaths/rolling_shutter	:195
+https://github.com/llSourcell/Make_a_neural_network	:195
+https://github.com/switchdoclabs/iBeacon-Scanner-	:194
+https://github.com/cwkiller/unauthorized-check	:161
+https://github.com/dtmsecurity/bof_helper	:154
+https://github.com/dataquestio/twitter-scrape	:147
+https://github.com/JohnHammond/vbe-decoder	:147
+https://github.com/kpdemetriou/fuuid	:147
+https://github.com/ekapope/Combine-CSV-files-in-the-folder	:132
+https://github.com/ambionics/mt_rand-reverse	:131
+https://github.com/localh0t/m4ngl3m3	:115
+https://github.com/abhishekchhibber/Gmail-Api-through-Python	:109
+https://github.com/synacktiv/php_filter_chain_generator	:105
+https://github.com/bdmarius/python-knowledge-graph	:103
+https://github.com/wshuyi/demo-helloworld-streamlit	:101
+https://github.com/Code-Bullet/Storm-The-House-Auto-Clicker	:101
+https://github.com/FalconForceTeam/SysWhispers2BOF	:100
+https://github.com/zhongpeixiang/RGNN	:96
+https://github.com/attreyabhatt/Reverse-Shell	:94
+https://github.com/JeffCarpenter/export-stars	:91
+https://github.com/geuomao/WAEQySRL64fXpNGL	:88
+https://github.com/inlike/Python-FFmpeg-Video	:88
+https://github.com/fabiocarrara/deep-parking	:87
+https://github.com/HackerPoet/GoblinEscape	:86
+https://github.com/wyz8883/morning	:86
+https://github.com/clemfromspace/scrapy-cloudflare-middleware	:84
+https://github.com/xuezhulian/selectorsunref	:83
+https://github.com/shekhargulati/python-flask-docker-hello-world	:79
+https://github.com/teknogeek/get_schemas	:79
+https://github.com/carlosevieira/CVE-2022-40684	:75
+https://github.com/yashar1/reddit-comment-bot	:75
+https://github.com/FWC1994/Python-Crawler	:74
+https://github.com/SliShady/BingDwenDwen	:71
+https://github.com/RimoChan/cotrace	:71
+https://github.com/hendrikbgr/TikTok-Account-Creator	:70
+https://github.com/sideshowbandana/k8s-sqs-autoscaler	:70
+https://github.com/lintstar/CS-PushPlus	:69
+https://github.com/Purdue-CSUSB/pycalc	:69
+https://github.com/DEATHART101/Heart	:67
+https://github.com/Python3WebSpider/WeiboList	:66
+https://github.com/dvatsav/Chat-Room-server	:65
+https://github.com/immersive-limit/coco-manager	:65
+https://github.com/ApsOps/proxy-checker	:65
+https://github.com/Python3WebSpider/GithubLogin	:64
+https://github.com/Ridter/proxyshell_payload	:63
+https://github.com/tatsumiw/ChiMerge	:61
+https://github.com/HellKnightsCrew/CVE-2022-26809	:61
+https://github.com/j2kun/simplex-algorithm	:58
+https://github.com/hackerschoice/CVE-2021-26855	:58
+https://github.com/the-h3x/H3X-CCTV	:57
+https://github.com/Hypnoze57/RDPChecker	:57
+https://github.com/ArjanCodes/2022-docker	:57
+https://github.com/techwithtim/3-Mini-Python-Projects-For-Intermediates	:56
+https://github.com/tsauliu/VoiceRecognition	:57
+https://github.com/k1p0d/h264_dvr_rce	:55
+https://github.com/AdamGleave/elgato-camlink-workaround	:54
+https://github.com/steveli/pytorch-sqrtm	:54
+https://github.com/nth347/CVE-2021-3129_exploit	:54
+https://github.com/ArjanCodes/2021-code-smells	:53
+https://github.com/u0pattern/PyArmor-Deobfuscator	:53
+https://github.com/htr-tech/PyObfuscate	:52
+https://github.com/NeuralNine/camera-classifier	:51
+https://github.com/hackingthemarkets/tdameritrade	:51
+https://github.com/techwithtim/Python-Socket-Chat-App	:50
+https://github.com/plenumlab/rce-finder	:50
+https://github.com/aaronjolson/flask-pytest-example	:49
+https://github.com/elfc2000/3dtilesdownloader	:48
+https://github.com/tuomaskivioja/3-Simple-Python-Projects	:48
+https://github.com/huzhenjie/m3u8_downloader	:48
+https://github.com/mtfly/sms-bomb	:47
+https://github.com/stavshamir/cython-c-wrapper	:46
+https://github.com/RimoChan/python-anti-seduce-system	:46
+https://github.com/jg-fisher/supreme-bot	:46
+https://github.com/nshepperd/lazy	:46
+https://github.com/0xEBFE/3DSX-IDA-PRO-Loader	:46
+https://github.com/techwithtim/Slack-Bot	:46
+https://github.com/banteg/fast	:46
+https://github.com/synacktiv/CVE-2021-40539	:45
+https://github.com/azimovMichael/my-async-app	:45
+https://github.com/nigelpoulton/counter-app	:45
+https://github.com/madlifer/cloudfront_nodecat	:44
+https://github.com/0x27/shodan_key_checker	:44
+https://github.com/viktor-gorinskiy/avito	:43
+https://github.com/ExAndroidDev/fakemeeting	:43
+https://github.com/ArjanCodes/2021-factory-pattern	:43
+https://github.com/Pawandeep-prog/real-life-mario	:42
+https://github.com/tghw/macproxy	:41
+https://github.com/hatakecnk/FB-Cracker	:41
+https://github.com/x41sec/tools	:41
+https://github.com/llSourcell/pytorch_in_5_minutes	:41
+https://github.com/daejunpark/evm-disassembler	:41
+https://github.com/seannowotny/freqtrade-tv-indicators	:40
+https://github.com/CodeWithJoe2020/sendTransactionsonBSC	:43
+https://github.com/MaxHalford/flask-sse-no-deps	:40
+https://github.com/rasooll/zarinpal-django-py3	:39
+https://github.com/adamchainz/django-watchfiles	:39
+https://github.com/modmypi/Rotary-Encoder	:39
+https://github.com/s4vitar/ttyoverhttp	:39
+https://github.com/JasonLeviGoodison/SpotifyToYoutubeMP3	:39
+https://github.com/smackerdodi/403bypasser	:38
+https://github.com/jmjeon94/MobileNet-Pytorch	:38
+https://github.com/yoda66/PowerStrip	:40
+https://github.com/tshrinivasan/post-to-facebook-groups	:38
+https://github.com/arunslb123/geeksforgeeks-pdf	:38
+https://github.com/standupmaths/JigsawInferenceGizmo	:38
+https://github.com/rafaballerini/ExerciciosPython	:37
+https://github.com/DDDOH/MSRA_Matchmaker	:37
+https://github.com/lorddemon/CVE-2021-41773-PoC	:36
+https://github.com/iamlu-coding/python-upload2sharepoint	:36
+https://github.com/komoot/superset-reverse-nginx-example	:36
+https://github.com/antx-code/CVE-2021-35587	:35
+https://github.com/ev1lm0rty/LazyScripts	:35
+https://github.com/11273/mooc-work-answer	:35
+https://github.com/blacklanternsecurity/KCMTicketFormatter	:35
+https://github.com/jod35/Introduction-to-SQLAlchemy	:34
+https://github.com/gsusI/Telegram-Group-or-Channel-users-to-CSV	:34
+https://github.com/novaspirit/PicoMouseJiggler	:34
+https://github.com/bri3d/sa2_seed_key	:34
+https://github.com/ctrahey/m1-tensorflow-config	:34
+https://github.com/vjkhere/BitcoinStealer	:34
+https://github.com/crowsec-edtech/CVE-2022-22947	:33
+https://github.com/JaneHJY/8_puzzle	:33
+https://github.com/AyushKaul/Musical-Note-detection	:33
+https://github.com/HelloMaoTai/suning-seckill-maotai	:33
+https://github.com/IceWreck/MegaScripts	:32
+https://github.com/mellertson/talib-macd-example	:34
+https://github.com/mahesh147/KMeans-Clustering	:32
+https://github.com/OisinMoran/quinetweet	:32
+https://github.com/techwithtim/Python-Beginner-Quiz	:31
+https://github.com/vagabond-systems/forage-lyft-starter-repo	:31
+https://github.com/quentinf00/article-memory-log	:31
+https://github.com/brockelmore/contract_grabber	:31
+https://github.com/rubfi/MQ135	:31
+https://github.com/ArjanCodes/2021-pydantic	:31
+https://github.com/vionde/TikTok-no-watermark-downloader	:30
+https://github.com/lazargugleta/coronavirusStats	:30
+https://github.com/zqwang7/CausalityCheck	:30
+https://github.com/pycodebr/download-youtube	:30
+https://github.com/techwithtim/ColoredTextInPython	:30
+https://github.com/azraelkuan/repgan	:30
+https://github.com/mahesh147/Multiple-Linear-Regression	:29
+https://github.com/L-HeliantHuS/GetWeChatDBPassword	:29
+https://github.com/uiucanh/streamlit-google-oauth	:29
+https://github.com/rwincey/CVE-2021-22005	:29
+https://github.com/s3bap3/Wifi-scanner	:28
+https://github.com/r-barnes/html2csv	:28
+https://github.com/yagays/swem	:28
+https://github.com/tsarpaul/Azure-Functions-EoP-PoC	:29
+https://github.com/bojone/shuffle	:27
+https://github.com/Rishija/python_chatServer	:27
+https://github.com/dawidkopczyk/genetic	:26
+https://github.com/xiligey/baidu_photo_spider	:26
+https://github.com/papercup-open-source/phonological-features	:26
+https://github.com/Anal-Repair/Vmp3_utils	:26
+https://github.com/var77/youtube-audio	:26
+https://github.com/aj-4/newsbot	:27
+https://github.com/KalleHallden/NameGenRoulette	:26
+https://github.com/techwithtim/Firework-Animation-Python	:26
+https://github.com/andrewp-as-is/mac-say.py	:26
+https://github.com/ryanbressler/numpy2go	:26
+https://github.com/icemonster/symbolic_mersenne_cracker	:25
+https://github.com/rjstyles/StackOverflow-Crawler	:25
+https://github.com/jhnwr/scrapeamazon	:25
+https://github.com/DevDungeon/OAuth2-Login-Python-Flask-Example	:25
+https://github.com/standupmaths/fiveletterworda	:25
+https://github.com/its-mayank/SqueezeAttention-PyTorch	:25
+https://github.com/ofirlevy/FastMattingPortrait	:25
+https://github.com/jacopo-j/testflight-watcher	:24
+https://github.com/barryWhiteHat/zkvm	:24
+https://github.com/elliotwaite/pytorch-hooks-tutorial	:24
+https://github.com/hackingthemarkets/backtrader-interactive-brokers	:24
+https://github.com/itsmaheshkariya/fastapi-mongodb-restapi	:24
+https://github.com/FaztWeb/fastapi-mysql-restapi	:24
+https://github.com/rafrasenberg/python-scammer-script	:24
+https://github.com/yandex-praktikum/backend_test_homework	:24
+https://github.com/ckkelvinchan/offset-fidelity-loss	:23
+https://github.com/lazidoca/bsc_newcoin_finder	:23
+https://github.com/ryanh7/hacs-proxy	:23
+https://github.com/polkerty/dog-bunny-puzzle-solver	:23
+https://github.com/Academy-Club/CodersClubAlgorithm	:23
+https://github.com/ggolawski/CVE-2020-1958	:23
+https://github.com/abhishek305/Calculator-in-python3-tkinter	:23
+https://github.com/withtimesgo1115/3D-point-cloud-global-registration-based-on-RANSAC	:22
+https://github.com/Kalasearch/github-actions-tutorial	:22
+https://github.com/TheDynomike/m3u8_downloader	:22
+https://github.com/ihnorton/lldb.sh	:22
+https://github.com/danielkrupinski/OneByteMoney	:22
+https://github.com/13060923171/bilibili	:22
+https://github.com/jaspreetsidhu3/voice_assistant	:22
+https://github.com/alitoufighi/arzeshi-block	:22
+https://github.com/mikicaivosevic/flask-simple-todo	:22
+https://github.com/hibyby/GrandmaCan_sql_tutorial	:22
+https://github.com/gquere/mRemoteNG_password_decrypt	:21
+https://github.com/MainakRepositor/KYD	:21
+https://github.com/Bemmu/Light-Switch-AI	:21
+https://github.com/zlexdl/twitter_whitelist_bot	:21
+https://github.com/bojone/pytorch_bert_to_tf	:21
+https://github.com/xcscxr/sharer-pw-dl	:21
+https://github.com/zzh1996/ustccas-revproxy	:21
+https://github.com/BitTheByte/BitMapper	:21
+https://github.com/supercaoO/Color-Loss	:21
+https://github.com/jstrosch/XOR-Decode-Strings-IDA-Plugin	:21
+https://github.com/ntulpule/Schwab-1099B-Parser	:21
+https://github.com/datastacktv/apache-beam-explained	:20
+https://github.com/gfw-report/get-tls-fingerprints	:20
+https://github.com/ReversingSwitch/BroadPWN	:20
+https://github.com/LilForkHatesYou/Token-Onliner	:20
+https://github.com/2qov3b/NFT-mint-bot-sol	:20
+https://github.com/druths/icssplitter	:20
+https://github.com/yuanfanz/Redfin	:20
+https://github.com/BrunoPanizzi/stockPrices	:20
+https://github.com/shroudri/username_generator	:20
+https://github.com/mohamedtamer0/DownloadPlaylistFromYouTube-Python	:20
+https://github.com/SpreadSheets650/Discord-Spammer-Poketwo	:20
+https://github.com/hackingthemarkets/stochastic-alpaca-crypto-trading-api	:20
+https://github.com/jod35/FastAPI-SQLModel-crash-course	:20
+https://github.com/legendongary/pytorch-gram-schmidt	:20
+https://github.com/Rvn0xsy/impacket-suite	:20
+https://github.com/vrachieru/asuswrt-api	:19
+https://github.com/crowsec-edtech/CVE-2021-26084	:19
+https://github.com/llopen-sourcell/Video-Steganography	:19
+https://github.com/gongda0e/FUTR	:19
+https://github.com/whwlsfb/CVE-2021-22205	:19
+https://github.com/hmittal657/laziness	:19
+https://github.com/jamescalam/gcp-api	:20
+https://github.com/jzsiggy/blockchain-from-scratch	:19
+https://github.com/campusx-official/fashion-recommender-system	:19
+https://github.com/patrickloeber/fitness-app-python-harperdb	:19
+https://github.com/sat28/zeppelin_notebook_to_script	:19
+https://github.com/zjelveh/learning-fair-representations	:19
+https://github.com/TurboWay/smsboom	:18
+https://github.com/handyman5/resmed-scraper	:18
+https://github.com/bloodycoder/craw_books	:18
+https://github.com/prasanthlouis/Imdb-movie-manager	:18
+https://github.com/billydh/zoom-reporting	:18
+https://github.com/hydrogen18/zyxel_ipc_camera_pwn	:18
+https://github.com/fengwang/subpixel_conv2d	:18
+https://github.com/attreyabhatt/Kivy-Pong-Game	:18
+https://github.com/1hunters/EdgeViT	:18
+https://github.com/nabehide/lambda_headless_chrome_python	:18
+https://github.com/techwithtim/Chess.com-API	:18
+https://github.com/fail0verflow/rl78-debug	:19
+https://github.com/KangBK0120/D2GAN	:18
+https://github.com/hhhhnwl/PointRend-simple-pytorch	:18
+https://github.com/Wyntuition/try-python-flask-redis-docker-compose	:18
+https://github.com/xinli2/python-container-practice	:18
+https://github.com/febin-george/flaskapp	:18
+https://github.com/davidrazmadzeExtra/RaspberryPi_HTTP_LED	:17
+https://github.com/Shikib/fed	:17
+https://github.com/mcarlton00/jellyfin-gdrive	:17
+https://github.com/opendns/doh-client	:17
+https://github.com/2833844911/gurs	:17
+https://github.com/sucv/EEGNet_Pytorch_Implementation	:17
+https://github.com/xinli2/Linklist-practice	:17
+https://github.com/that1/ldcheck	:17
+https://github.com/ComicoX/telethon-bot-add-users-to-groups	:17
+https://github.com/gauravdhama/eigengame_deepmind	:17
+https://github.com/stealthizer/jdownloader-proxy-generator	:17
+https://github.com/malikovss/fastapi-aiogram	:17
+https://github.com/GuoKerS/aioScan_CVE-2020-0796	:17
+https://github.com/bot66/coco2voc	:17
+https://github.com/learncodebygaming/multiple-minimized-windows	:17
+https://github.com/everping/Linkedin-Authentication-Challenge	:17
+https://github.com/Terminal1337/tempmail-python	:17
+https://github.com/karlopy/pin-cracker	:17
+https://github.com/PrashantMohta/mlcd	:17
+https://github.com/Grey-Time/Telethon-Channel-Clone	:17
+https://github.com/intfloat/interactive-bert-masked-lm	:17
+https://github.com/tothi/azure-function-proxy	:17
+https://github.com/adhdproject/spidertrap	:16
+https://github.com/cuongld2/graphql_blog_service	:17
+https://github.com/RimoChan/inherit	:16
+https://github.com/zh-explorer/ida_script	:18
+https://github.com/sudnyeshtalekar/bulk-emailer	:16
+https://github.com/paulgb/wdimtloap	:20
+https://github.com/cameronShadmehry/AlgorithmicTrading_LogisticRegression	:16
+https://github.com/livid/mover	:16
+https://github.com/Aurum2008/CVE2020-0796	:16
+https://github.com/IPvZero/scapli-mac-hunter	:17
+https://github.com/pythontoday/magnit_bot	:16
+https://github.com/rbstrey/usr5686g-flasher	:17
+https://github.com/liyun-lu/unet_and_vnet	:16
+https://github.com/while-TuRe/A-star-ShortestPath	:16
+https://github.com/vijaysattigeri/InstagramJsonMessageReader	:18
+https://github.com/erikbern/hiring-model	:15
+https://github.com/patins/sus_ssh	:16
+https://github.com/ixabolfazl/etranslate	:16
+https://github.com/dubhater/vapoursynth-adjust	:15
+https://github.com/Sector035/chronocalc	:15
+https://github.com/mrts/ubuntu-old-kernel-cleanup	:15
+https://github.com/sachinl0har/Browser-Using-Python	:15
+https://github.com/XShemer/-HPV-	:15
+https://github.com/KunKuang/Decorrelated-Weighted-Regression	:15
+https://github.com/vigneshgig/sorting_algorthim_for_bounding_box_from_left_to_right_and_top_to_bottom	:15
+https://github.com/keith/xcframework-to-fat	:15
+https://github.com/cyberpartizans/data_service	:15
+https://github.com/h2so0o4/Fuck_SRC	:15
+https://github.com/XuhuiM/Multi-Fidelity-DNNs-PINNs	:15
+https://github.com/CERT-Polska/phishing-api	:15
+https://github.com/What-a-stupid-username/ShaderToyHelper	:15
+https://github.com/skickar/LAOSINT	:15
+https://github.com/anneviliu/awvs_xray_url_batch-import	:15
+https://github.com/jilleb/mib3-toolbox	:15
+https://github.com/uclaml/NeuralUCB	:15
+https://github.com/Ashwin-op/Machine-Learning-Series	:15
+https://github.com/Zhouquan-Wan/SVD_autodiff	:14
+https://github.com/savvy-guc/cs-manim	:14
+https://github.com/crazyleg/time-dependant-rnn-embeddings-keras	:15
+https://github.com/PetzJohannes/laravel-7-8-routes-migration	:14
+https://github.com/mikepurvis/rosdep-generator	:14
+https://github.com/pts/chacha20	:14
+https://github.com/jhnwr/terrex-scraper	:14
+https://github.com/willGuimont/learnable_fourier_positional_encoding	:14
+https://github.com/ShivamChourey/Harris-Corner-Detection	:14
+https://github.com/Kechinator/unpyarmor	:14
+https://github.com/josharnoldjosh/Resnet-Extract-Image-Feature-Pytorch-Python	:14
+https://github.com/sven2101/Preprocess-I3D-Deepmind	:14
+https://github.com/ZnsNgk/CNN_Course	:14
+https://github.com/AxelAli/VTT-Formatter	:14
+https://github.com/phemex/phemex-python-api	:14
+https://github.com/Reed-Schimmel/support_resistance_finder	:14
+https://github.com/arunpt/LemonJamServer	:14
+https://github.com/priyath/insta-followers-scraper	:14
+https://github.com/Mafia-Killer404/mafia-killer-sim8	:14
+https://github.com/openraildata/openldbws-example-python	:14
+https://github.com/ArjanCodes/2022-context-managers	:14
+https://github.com/PythonForForex/alpaca-pairs-trading	:14
+https://github.com/xinli2/Moives	:14
+https://github.com/xiamenwcy/TokenLearner	:14
+https://github.com/odoomates/odoo_14_development_tutorials	:14
+https://github.com/tonymagro/VintageEscape	:14
+https://github.com/xinli2/Check-move-and-update-board2	:14
+https://github.com/vybhavramachandran/clevergirl-backend	:14
+https://github.com/LovelyWei/stage1stKeepLogin	:15
+https://github.com/Johnson666666/BeiFen-xielouPoC	:14
+https://github.com/jhnwr/amazon-pagination	:14
+https://github.com/FryTiger01/Password-Creator-	:14
+https://github.com/Elmasekar/UnitTest-tunnel	:13
+https://github.com/amilmshaji/3D-plot-in-Matplotlib	:13
+https://github.com/techwithtim/Brick-Breaker-Python	:13
