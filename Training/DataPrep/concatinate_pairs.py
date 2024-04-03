@@ -104,7 +104,8 @@ if __name__ == '__main__':
         if project_link.endswith('/'):
             project_link = project_link[:-1]
         *_, org, project = project_link.split('/')
-        filepairs_path = os.path.join(args.output_dir, args.pl, 'DeduplicatedFilePairs', 'filepairs_' + org + '__' + project + '.json')
+        filepairs_path = os.path.join(args.output_dir, args.pl, 'DeduplicatedFilePairs', 
+                                      'filepairs_' + org + '__' + project + '.json')
         filepairs_df =  pd.read_json(filepairs_path)       
         copy_with_concat(args.repo_dir, args.train_dir, args.pl, org, project, filepairs_df)
 

@@ -3,10 +3,12 @@ import sys
 import time
 import random
 import json
+from typing import Literal
 from tqdm import tqdm
 import sentencepiece as spm
 import pandas as pd
 random.seed(12)
+
 
 def load_filepair_data(filepath):
     with open(filepath) as json_data:
@@ -17,8 +19,8 @@ def load_filepair_data(filepath):
     return df
 
 
-# get all file paths in the project
 def get_project_filepaths(project_dir):
+    """get all file paths in the project"""
     all_project_file_paths = list()
     for (dirpath, _, filenames) in os.walk(project_dir):
         all_project_file_paths += [os.path.join(dirpath, file) for file in filenames]
@@ -26,7 +28,7 @@ def get_project_filepaths(project_dir):
 
 
 def sanitize(text):
-    # Set up reserved tokens.
+    """Set up reserved tokens"""
     SPACE_TOKEN = '▁'  # Note: not a regular underscore, but the SPM unicode symbol for a space
     TAB_TOKEN = chr(1)  # Assign rarely used ASCII chars for tabs and newlines. Can also pick rare unicode characters.
     NEWLINE_TOKEN = chr(2)
@@ -34,7 +36,6 @@ def sanitize(text):
     text = text.replace('\t', TAB_TOKEN)
     text = text.replace(' ', SPACE_TOKEN)
     return text
-
 
 sp = spm.SentencePieceProcessor(model_file=f'vocabulary_10l.model')
 def get_num_tokens(filename):
@@ -67,10 +68,25 @@ def get_metadata_after_dedup(repos_dir, pl, org, project, output_dir):
         print("Exception getting metadata", org, project, e)
         
 
-def get_filepairs_after_dedup(repos_dir, pl, org, project, output_dir):
+def get_filepairs_after_dedup(repos_dir: Literal['./data/GitHubMining/CurrentStateDeduplicated/'], 
+                              pl: Literal["python"], org, project, 
+                              output_dir: Literal['./data/GitHubMining/Output/']):
+    """_summary_
+
+    Args:
+        repos_dir (Literal[&#39;.): Путь к директории, в которой были сохранены дедуплицированные файлы 
+        pl (Literal[&quot;python&quot;]): _description_
+        org (_type_): идентификатор репозитория
+        project (_type_): идентификатор репозитория
+        output_dir (Literal[&#39;.): Должен ссылаться на директорию, в которой были сохранены 
+        json файлы с информацией о файловых парах (см куда сохроняли результы после применения 
+        ../GitHubMining/extract_pairs.sh)
+    """
     
     before_filepairs_dir = os.path.join(output_dir, pl, 'FilePairs')
     after_filepairs_dir = os.path.join(output_dir, pl, 'DeduplicatedFilePairs/')
+    os.makedirs(after_filepairs_dir, exist_ok=True)
+
     project_dir = os.path.join(repos_dir, pl, org, project)
     filepairs_filename = 'filepairs_' + org + '__' + project + '.json'
 
@@ -80,12 +96,15 @@ def get_filepairs_after_dedup(repos_dir, pl, org, project, output_dir):
 
         filepairs_df = filepairs_df[['code_filename', 'test_filename']]
 
-        filepairs_df['code_filename'] = filepairs_df['code_filename'].apply(lambda x: x.replace('/CurrentState/','/CurrentStateDeduplicated/'))
-        filepairs_df['test_filename'] = filepairs_df['test_filename'].apply(lambda x: x.replace('/CurrentState/','/CurrentStateDeduplicated/'))
+        filepairs_df['code_filename'] = filepairs_df['code_filename'].apply(
+            lambda x: x.replace('/CurrentState/','/CurrentStateDeduplicated/'))
+        filepairs_df['test_filename'] = filepairs_df['test_filename'].apply(
+            lambda x: x.replace('/CurrentState/','/CurrentStateDeduplicated/'))
             
         filepairs_df['code_exists_after_dedup'] = filepairs_df['code_filename'].apply(lambda x: x in all_project_file_paths)
         filepairs_df['test_exists_after_dedup'] = filepairs_df['test_filename'].apply(lambda x: x in all_project_file_paths)        
-        filepairs_df = filepairs_df[(filepairs_df['code_exists_after_dedup'] == True) & (filepairs_df['test_exists_after_dedup'] == True)]
+        filepairs_df = filepairs_df[(filepairs_df['code_exists_after_dedup'] == True) & \
+                                    (filepairs_df['test_exists_after_dedup'] == True)]
         filepairs_df = filepairs_df.reset_index()
         
         filepairs_df = filepairs_df[['code_filename', 'test_filename']]
@@ -111,9 +130,11 @@ if __name__ == '__main__':
     print(f"Processing {pl}/{org}/{project}")
 
     repos_dir = './data/GitHubMining/CurrentStateDeduplicated/'
-    output_dir = './data/GitHubMining/Output/'
+    output_dir = '../GitHubMining/data/GitHubMining/Output/'
 
     os.makedirs(output_dir, exist_ok=True)
    
-    get_metadata_after_dedup(repos_dir, pl, org, project, output_dir)
-    get_filepairs_after_dedup(repos_dir, pl, org, project, output_dir)
+    # get_metadata_after_dedup(repos_dir, pl, org, project, output_dir)
+    get_filepairs_after_dedup(repos_dir, 
+                              pl, org, project, 
+                              output_dir)

@@ -164,10 +164,10 @@ if __name__ == '__main__':
         removed_files[f"{org}/{project}"] = filter_projects(args.repo_dir, args.copy_dir, args.pl, org, project, hashes_map)
     
     
-    os.makedirs(f"{args.metadata_dir}/{args.pl}", exist_ok=True)
-    with open(f"{args.metadata_dir}/{args.pl}/removed_files.json", "w") as f:
-        json.dump(removed_files, f)
-    
-    with open(f"{args.metadata_dir}/{args.pl}/hashes_map.json", "w") as f:
-        json.dump(hashes_map, f)
+        os.makedirs(f"{args.metadata_dir}/{args.pl}", exist_ok=True)
+        with open(f"{args.metadata_dir}/{args.pl}/removed_files.json", "w") as f:
+            json.dump(removed_files, f)
+        
+        with open(f"{args.metadata_dir}/{args.pl}/hashes_map.json", "w") as f:
+            json.dump(hashes_map, f)
 
