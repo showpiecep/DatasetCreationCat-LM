@@ -134,7 +134,7 @@ if __name__ == '__main__':
 
     os.makedirs(output_dir, exist_ok=True)
    
-    # get_metadata_after_dedup(repos_dir, pl, org, project, output_dir)
+    get_metadata_after_dedup(repos_dir, pl, org, project, output_dir)
     get_filepairs_after_dedup(repos_dir, 
                               pl, org, project, 
                               output_dir)

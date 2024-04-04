@@ -15,18 +15,22 @@ import random
 import argparse
 
 
-TEST_SET_SIZE_PER_LANG =  10 # default: 500
-MIN_PAIRS =  10 # default: 1000
-MAX_PAIRS =  15 # default: 3000          
+TEST_SET_SIZE_PER_LANG =  5 # default: 500
+MIN_PAIRS =  1 # default: 1000
+MAX_PAIRS =  100 # default: 3000          
 
 
 def get_args():
     parser = argparse.ArgumentParser()
 
-    parser.add_argument("--repo_dir", default='/data/GitHubMining/CurrentStateDeduplicated/')
-    parser.add_argument("--train_test_output_dir", default='/data/GitHubMining/')
-    parser.add_argument("--output_dir", default='/data/GitHubMining/Output/')
-    parser.add_argument("--python_repos_file_path", default='../GitHubMining/python-top-repos.txt')
+    parser.add_argument("--repo_dir", help="Почему-то авторы кода решили ввести данный аргумент, \
+                        но не используют его", default='/data/GitHubMining/CurrentStateDeduplicated/')
+    parser.add_argument("--train_test_output_dir", help='Путь до папки, которая будет \
+                            содержать текстовые файлы с разбиением на test и train', default='/data/GitHubMining/')
+    parser.add_argument("--output_dir", help='Путь до папки, содержащей DeduplicatedFilePairs', 
+                        default='/data/GitHubMining/Output/')
+    parser.add_argument("--python_repos_file_path", help='текстовый файл, откуда будут браться \
+                        названия склонированных репозиториев', default='../GitHubMining/python-top-repos.txt')
     parser.add_argument("--java_repos_file_path", default=None)  # '../GitHubMining/java-top-repos.txt')
 
     args = parser.parse_args()
@@ -54,7 +58,7 @@ if __name__ == '__main__':
 
     print(f"Finding test set with >{MIN_PAIRS} and <{MAX_PAIRS} pairs")
     while not found_sample:
-        random.shuffle(python_repos_links)
+        # random.shuffle(python_repos_links) # ! Так как я использую не весь список спаршенных репозиторие а только первые 1500, то я убрал шафл
         num_filepairs = 0
         for project_link in python_repos_links[:TEST_SET_SIZE_PER_LANG]:
             project_link = project_link.split('\t')[0]
@@ -62,9 +66,14 @@ if __name__ == '__main__':
                 project_link = project_link[:-1]
             *_, org, project = project_link.split('/')
 
-            filepairs_path = os.path.join(args.output_dir, "python", 'DeduplicatedFilePairs', 'filepairs_' + org + '__' + project + '.json')
-            with open(filepairs_path, "r") as f:
-                file_pairs = json.load(f)
+            filepairs_path = os.path.join(args.output_dir, "python", 'DeduplicatedFilePairs', 
+                                          'filepairs_' + org + '__' + project + '.json')
+            try:
+                with open(filepairs_path, "r") as f:
+                    file_pairs = json.load(f)
+            except Exception as e:
+                print(e)
+                continue
 
             num_filepairs += len(file_pairs)
 
@@ -75,7 +84,8 @@ if __name__ == '__main__':
                     project_link = project_link[:-1]
                 *_, org, project = project_link.split('/')
 
-                filepairs_path = os.path.join(args.output_dir, "java", 'DeduplicatedFilePairs', 'filepairs_' + org + '__' + project + '.json')
+                filepairs_path = os.path.join(args.output_dir, "java", 'DeduplicatedFilePairs', 
+                                              'filepairs_' + org + '__' + project + '.json')
                 with open(filepairs_path, "r") as f:
                     file_pairs = json.load(f)
 
@@ -88,13 +98,15 @@ if __name__ == '__main__':
     python_test_set = python_repos_links[:TEST_SET_SIZE_PER_LANG]
     python_train_set = python_repos_links[TEST_SET_SIZE_PER_LANG:]
     
-    java_test_set = java_repos_links[:TEST_SET_SIZE_PER_LANG]
-    java_train_set = java_repos_links[TEST_SET_SIZE_PER_LANG:]
+    if args.java_repos_file_path:
+        java_test_set = java_repos_links[:TEST_SET_SIZE_PER_LANG]
+        java_train_set = java_repos_links[TEST_SET_SIZE_PER_LANG:]
 
     with open(os.path.join(args.train_test_output_dir, f"test_python.txt"), "w") as f:
         write_list(f, python_test_set)
 
     with open(os.path.join(args.train_test_output_dir, f"train_python.txt"), "w") as f:
+        print(os.path.join(args.train_test_output_dir, f"train_python.txt"))
         write_list(f, python_train_set)
         
     if args.java_repos_file_path:

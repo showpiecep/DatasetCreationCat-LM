@@ -25,16 +25,15 @@ def get_args():
     parser.add_argument("--repo_dir", default='/data/GitHubMining/CurrentState/')
     parser.add_argument("--train_dir", default='/data/GitHubMining/CurrentStateProcessed/train/')
     parser.add_argument("--test_dir", default=None)  # '/data/GitHubMining/CurrentStateProcessed/test/')
-    parser.add_argument("--output_dir", default='/data/GitHubMining/Output/')
-    parser.add_argument("--train_test_list_path", default='/data/GitHubMining/')
+    parser.add_argument("--output_dir", help='Путь до папки, содержащей DeduplicatedFilePairs', 
+                        default='/data/GitHubMining/Output/')
+    parser.add_argument("--train_test_list_path", help='Путь до папки, которая содержит \
+                        текстовые файлы с разбиением на test и train', default='/data/GitHubMining/')
     parser.add_argument("--pl", default='python')
 
     return parser.parse_args()
 
 
-"""
-Flattening all paths at this step.
-"""
 def copy_with_concat(repo_dir: str, 
                      copy_dir: str, 
                      pl: Literal["python", "java"], 
@@ -42,6 +41,7 @@ def copy_with_concat(repo_dir: str,
                      project: str, 
                      file_pairs_df: pd.DataFrame):
     """
+    Flattening all paths at this step.
 
     Args:
         repo_dir (str): Корневая директория для взятия данных
@@ -61,7 +61,7 @@ def copy_with_concat(repo_dir: str,
     for index, row in file_pairs_df.iterrows():
         code_file_path = row["code_filename"]
         test_file_path = row["test_filename"]
-        special_files.add(code_file_path)
+        special_files.add(code_file_path)  # ./data/GitHubMining/CurrentStateDeduplicated/python/GodfatherAce/
         special_files.add(test_file_path)
 
         with open(code_file_path, errors='ignore') as code_file:
@@ -72,8 +72,8 @@ def copy_with_concat(repo_dir: str,
         # --- Получаем пары ---
         new_content = code_content + SEP_TOKEN + test_content
 
-        code_name = code_file_path.split("/")[-1][-len(suffix):]
-        test_name = test_file_path.split("/")[-1]
+        code_name = code_file_path.split("/")[-1][:-len(suffix)]
+        test_name = test_file_path.split("/")[-1][:-len(suffix)]
 
         combined_path = f"Filepair_{index}_{code_name}__{test_name}"
         with open(f"{copy_dir}/{combined_path}", "w") as f:
@@ -91,7 +91,7 @@ def copy_with_concat(repo_dir: str,
 
 if __name__ == '__main__':
     args = get_args()
-    
+    print(os.getcwd(), '\n', os.listdir())
     with open(os.path.join(args.train_test_list_path, f"train_{args.pl}.txt"), "r") as f:
         train_list = f.read().split('\n')
 
@@ -106,8 +106,14 @@ if __name__ == '__main__':
         *_, org, project = project_link.split('/')
         filepairs_path = os.path.join(args.output_dir, args.pl, 'DeduplicatedFilePairs', 
                                       'filepairs_' + org + '__' + project + '.json')
-        filepairs_df =  pd.read_json(filepairs_path)       
-        copy_with_concat(args.repo_dir, args.train_dir, args.pl, org, project, filepairs_df)
+        filepairs_df =  pd.read_json(filepairs_path)     
+
+        copy_with_concat(args.repo_dir, 
+                         args.train_dir, 
+                         args.pl, 
+                         org, 
+                         project, 
+                         filepairs_df)
 
     if args.test_dir:
         for project_link in tqdm(test_list):
@@ -117,4 +123,10 @@ if __name__ == '__main__':
             *_, org, project = project_link.split('/')
             filepairs_path = os.path.join(args.output_dir, args.pl, 'FilePairs', 'filepairs_' + org + '__' + project + '.json')
             filepair_df = pd.read_json(filepairs_path)
-            copy_with_concat(args.repo_dir, args.test_dir, args.pl, org, project, filepairs_df)
+
+            copy_with_concat(args.repo_dir, 
+                             args.test_dir, 
+                             args.pl, 
+                             org, 
+                             project, 
+                             filepairs_df)

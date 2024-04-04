@@ -16,9 +16,12 @@ We provide all scripts to reproduce our results for training CAT-LM.
 2. Run `concatenate_pairs.sh` to prepare the file pairs by concatenating the code and test files with the separator. 
     * Ожидает получение файлов следующим образом `os.path.join(args.output_dir, args.pl, 'DeduplicatedFilePairs', 'filepairs_' + org + '__' + project + '.json')`, но ранее нигде не создаются данные файлы. Только в `get_metadata_after_dedup.py` происходит создание json файлов в нужном формате
         * `get_metadata_after_dedup.py` встречается в `get_updated_metadata_python.sh`, который по README идет после данного шага, однако должны быть наоборот:
-        1. `deduplicate_data_python.sh`
-        2. `get_updated_metadata_python.sh`
-        3. `concatenate_pairs.sh`
+        1. `deduplicate_data_python.sh` - избавляемся от повторений в данных | получаем **CurrentStateDeduplicated/**
+        2. `get_updated_metadata_python.sh` - получаем новые метаданные для дежуплицированных данных | получаем **'DeduplicatedFilePairs/'**
+        3. `make_train_test.py` - разбиваем данные на выборки | получаем **f"train_{args.pl}.txt"**
+        4. `concatenate_pairs.sh` - объединям данные, нужно иметь файлы, удовлетворяющие следующему коду: 
+            * os.path.join(args.train_test_list_path, **f"train_{args.pl}.txt"**)  (pl - program language ['python', 'java'])
+            * os.path.join(args.output_dir, args.pl, **'DeduplicatedFilePairs'**, 'filepairs_' + org + '__' + project + '.json')
     
 3. Run `make_train_test.sh` to prepare the final training and test dataset.
 4. Run `get_updated_metadata_java.sh` and `get_updated_metadata_python.sh` to get the metadata after preprocessing.
